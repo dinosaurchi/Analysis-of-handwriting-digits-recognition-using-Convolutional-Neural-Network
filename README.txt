@@ -1,1 +1,5 @@
-Here is the Youtube link about the demo: https://youtu.be/4Exra6fmRg4
+This is the source code outgrowths from the final project of CS414 course (VNUHCM-University of Science), instructed by Prof. Rao Vemuri of University of California Davis. 
+
+Authors: Tinh-Chi TRAN, Thanh-Tung CAO, Khai-Hanh TANG 
+
+Here is the Youtube link for the demo: https://youtu.be/4Exra6fmRg4
