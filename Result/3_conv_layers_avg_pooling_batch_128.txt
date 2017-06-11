@@ -1,0 +1,4796 @@
+Model 			 : 3 CNN layers
+Training data    : 55000
+Testing data     : 10000
+Validating data  : 5000
+Batch size		 : 128
+Total Iteration  : 39001
+Current accuracy : 99.1299986839%
+Starting time	 : 2017-04-27 02:47:33.429231
+Finishing time	 : 2017-04-27 10:39:34.859780
+
+ Progress : 11 / 39001 
+ Progress : 21 / 39001 
+ Progress : 31 / 39001 
+ Progress : 41 / 39001 
+ Progress : 51 / 39001 
+ Current minibatch Loss= 20603.142578, Training Accuracy= 84.4%
+ Progress : 61 / 39001 
+ Progress : 71 / 39001 
+ Progress : 81 / 39001 
+ Progress : 91 / 39001 
+ Progress : 101 / 39001 
+ Current minibatch Loss= 15693.847656, Training Accuracy= 85.9%
+ Progress : 111 / 39001 
+ Progress : 121 / 39001 
+ Progress : 131 / 39001 
+ Progress : 141 / 39001 
+ Progress : 151 / 39001 
+ Current minibatch Loss= 4849.593750, Training Accuracy= 92.2%
+ Progress : 161 / 39001 
+ Progress : 171 / 39001 
+ Progress : 181 / 39001 
+ Progress : 191 / 39001 
+ Progress : 201 / 39001 
+ Current minibatch Loss= 5591.087891, Training Accuracy= 89.8%
+ Progress : 211 / 39001 
+ Progress : 221 / 39001 
+ Progress : 231 / 39001 
+ Progress : 241 / 39001 
+ Progress : 251 / 39001 
+ Current minibatch Loss= 2457.834717, Training Accuracy= 95.3%
+ Progress : 261 / 39001 
+ Progress : 271 / 39001 
+ Progress : 281 / 39001 
+ Progress : 291 / 39001 
+ Progress : 301 / 39001 
+ Current minibatch Loss= 68.129883, Training Accuracy= 99.2%
+ Progress : 311 / 39001 
+ Progress : 321 / 39001 
+ Progress : 331 / 39001 
+ Progress : 341 / 39001 
+ Progress : 351 / 39001 
+ Current minibatch Loss= 591.039001, Training Accuracy= 98.4%
+ Progress : 361 / 39001 
+ Progress : 371 / 39001 
+ Progress : 381 / 39001 
+ Progress : 391 / 39001 
+ Progress : 401 / 39001 
+ Current minibatch Loss= 908.522705, Training Accuracy= 96.9%
+ Progress : 411 / 39001 
+ Progress : 421 / 39001 
+ Progress : 431 / 39001 
+ Progress : 441 / 39001 
+ Progress : 451 / 39001 
+ Current minibatch Loss= 4347.034180, Training Accuracy= 90.6%
+ Progress : 461 / 39001 
+ Progress : 471 / 39001 
+ Progress : 481 / 39001 
+ Progress : 491 / 39001 
+ Progress : 501 / 39001 
+ Current minibatch Loss= 2028.012695, Training Accuracy= 95.3%
+ Progress : 511 / 39001 
+ Progress : 521 / 39001 
+ Progress : 531 / 39001 
+ Progress : 541 / 39001 
+ Progress : 551 / 39001 
+ Current minibatch Loss= 2697.360352, Training Accuracy= 96.1%
+ Progress : 561 / 39001 
+ Progress : 571 / 39001 
+ Progress : 581 / 39001 
+ Progress : 591 / 39001 
+ Progress : 601 / 39001 
+ Current minibatch Loss= 1888.097046, Training Accuracy= 95.3%
+ Progress : 611 / 39001 
+ Progress : 621 / 39001 
+ Progress : 631 / 39001 
+ Progress : 641 / 39001 
+ Progress : 651 / 39001 
+ Current minibatch Loss= 1536.447021, Training Accuracy= 99.2%
+ Progress : 661 / 39001 
+ Progress : 671 / 39001 
+ Progress : 681 / 39001 
+ Progress : 691 / 39001 
+ Progress : 701 / 39001 
+ Current minibatch Loss= 1034.104492, Training Accuracy= 97.7%
+ Progress : 711 / 39001 
+ Progress : 721 / 39001 
+ Progress : 731 / 39001 
+ Progress : 741 / 39001 
+ Progress : 751 / 39001 
+ Current minibatch Loss= 1512.677002, Training Accuracy= 95.3%
+ Progress : 761 / 39001 
+ Progress : 771 / 39001 
+ Progress : 781 / 39001 
+ Progress : 791 / 39001 
+ Progress : 801 / 39001 
+ Current minibatch Loss= 1866.392822, Training Accuracy= 95.3%
+ Progress : 811 / 39001 
+ Progress : 821 / 39001 
+ Progress : 831 / 39001 
+ Progress : 841 / 39001 
+ Progress : 851 / 39001 
+ Current minibatch Loss= 1243.994507, Training Accuracy= 96.1%
+ Progress : 861 / 39001 
+ Progress : 871 / 39001 
+ Progress : 881 / 39001 
+ Progress : 891 / 39001 
+ Progress : 901 / 39001 
+ Current minibatch Loss= 562.331543, Training Accuracy= 98.4%
+ Progress : 911 / 39001 
+ Progress : 921 / 39001 
+ Progress : 931 / 39001 
+ Progress : 941 / 39001 
+ Progress : 951 / 39001 
+ Current minibatch Loss= 670.561157, Training Accuracy= 98.4%
+ Progress : 961 / 39001 
+ Progress : 971 / 39001 
+ Progress : 981 / 39001 
+ Progress : 991 / 39001 
+ Progress : 1001 / 39001 
+ Current minibatch Loss= 879.081421, Training Accuracy= 96.1%
+ Current testing data Loss= 854.369873, Training Accuracy= 97.2%
+ New highest probabilty : 97.2299993038%
+ Model saved in file: ./model_cnn-i1000-b128-a97.2299993038/model.ckpt
+Current highest : 97.2299993038%
+ Progress : 1011 / 39001 
+ Progress : 1021 / 39001 
+ Progress : 1031 / 39001 
+ Progress : 1041 / 39001 
+ Progress : 1051 / 39001 
+ Current minibatch Loss= 544.391724, Training Accuracy= 97.7%
+ Progress : 1061 / 39001 
+ Progress : 1071 / 39001 
+ Progress : 1081 / 39001 
+ Progress : 1091 / 39001 
+ Progress : 1101 / 39001 
+ Current minibatch Loss= 198.303558, Training Accuracy= 97.7%
+ Progress : 1111 / 39001 
+ Progress : 1121 / 39001 
+ Progress : 1131 / 39001 
+ Progress : 1141 / 39001 
+ Progress : 1151 / 39001 
+ Current minibatch Loss= 627.055725, Training Accuracy= 97.7%
+ Progress : 1161 / 39001 
+ Progress : 1171 / 39001 
+ Progress : 1181 / 39001 
+ Progress : 1191 / 39001 
+ Progress : 1201 / 39001 
+ Current minibatch Loss= 519.550720, Training Accuracy= 96.1%
+ Progress : 1211 / 39001 
+ Progress : 1221 / 39001 
+ Progress : 1231 / 39001 
+ Progress : 1241 / 39001 
+ Progress : 1251 / 39001 
+ Current minibatch Loss= 605.947266, Training Accuracy= 99.2%
+ Progress : 1261 / 39001 
+ Progress : 1271 / 39001 
+ Progress : 1281 / 39001 
+ Progress : 1291 / 39001 
+ Progress : 1301 / 39001 
+ Current minibatch Loss= 455.120728, Training Accuracy= 96.9%
+ Progress : 1311 / 39001 
+ Progress : 1321 / 39001 
+ Progress : 1331 / 39001 
+ Progress : 1341 / 39001 
+ Progress : 1351 / 39001 
+ Current minibatch Loss= 1179.421143, Training Accuracy= 95.3%
+ Progress : 1361 / 39001 
+ Progress : 1371 / 39001 
+ Progress : 1381 / 39001 
+ Progress : 1391 / 39001 
+ Progress : 1401 / 39001 
+ Current minibatch Loss= 302.068970, Training Accuracy= 98.4%
+ Progress : 1411 / 39001 
+ Progress : 1421 / 39001 
+ Progress : 1431 / 39001 
+ Progress : 1441 / 39001 
+ Progress : 1451 / 39001 
+ Current minibatch Loss= 274.358826, Training Accuracy= 99.2%
+ Progress : 1461 / 39001 
+ Progress : 1471 / 39001 
+ Progress : 1481 / 39001 
+ Progress : 1491 / 39001 
+ Progress : 1501 / 39001 
+ Current minibatch Loss= 701.893127, Training Accuracy= 96.9%
+ Progress : 1511 / 39001 
+ Progress : 1521 / 39001 
+ Progress : 1531 / 39001 
+ Progress : 1541 / 39001 
+ Progress : 1551 / 39001 
+ Current minibatch Loss= 493.696533, Training Accuracy= 96.9%
+ Progress : 1561 / 39001 
+ Progress : 1571 / 39001 
+ Progress : 1581 / 39001 
+ Progress : 1591 / 39001 
+ Progress : 1601 / 39001 
+ Current minibatch Loss= 104.414337, Training Accuracy= 99.2%
+ Progress : 1611 / 39001 
+ Progress : 1621 / 39001 
+ Progress : 1631 / 39001 
+ Progress : 1641 / 39001 
+ Progress : 1651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 1661 / 39001 
+ Progress : 1671 / 39001 
+ Progress : 1681 / 39001 
+ Progress : 1691 / 39001 
+ Progress : 1701 / 39001 
+ Current minibatch Loss= 39.859619, Training Accuracy= 97.7%
+ Progress : 1711 / 39001 
+ Progress : 1721 / 39001 
+ Progress : 1731 / 39001 
+ Progress : 1741 / 39001 
+ Progress : 1751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 1761 / 39001 
+ Progress : 1771 / 39001 
+ Progress : 1781 / 39001 
+ Progress : 1791 / 39001 
+ Progress : 1801 / 39001 
+ Current minibatch Loss= 186.442596, Training Accuracy= 98.4%
+ Progress : 1811 / 39001 
+ Progress : 1821 / 39001 
+ Progress : 1831 / 39001 
+ Progress : 1841 / 39001 
+ Progress : 1851 / 39001 
+ Current minibatch Loss= 37.926941, Training Accuracy= 99.2%
+ Progress : 1861 / 39001 
+ Progress : 1871 / 39001 
+ Progress : 1881 / 39001 
+ Progress : 1891 / 39001 
+ Progress : 1901 / 39001 
+ Current minibatch Loss= 307.575073, Training Accuracy= 96.1%
+ Progress : 1911 / 39001 
+ Progress : 1921 / 39001 
+ Progress : 1931 / 39001 
+ Progress : 1941 / 39001 
+ Progress : 1951 / 39001 
+ Current minibatch Loss= 26.590515, Training Accuracy= 99.2%
+ Progress : 1961 / 39001 
+ Progress : 1971 / 39001 
+ Progress : 1981 / 39001 
+ Progress : 1991 / 39001 
+ Progress : 2001 / 39001 
+ Current minibatch Loss= 211.170258, Training Accuracy= 98.4%
+ Current testing data Loss= 383.732910, Training Accuracy= 97.7%
+ New highest probabilty : 97.6999998093%
+ Model saved in file: ./model_cnn-i2000-b128-a97.6999998093/model.ckpt
+Current highest : 97.6999998093%
+ Progress : 2011 / 39001 
+ Progress : 2021 / 39001 
+ Progress : 2031 / 39001 
+ Progress : 2041 / 39001 
+ Progress : 2051 / 39001 
+ Current minibatch Loss= 387.901917, Training Accuracy= 97.7%
+ Progress : 2061 / 39001 
+ Progress : 2071 / 39001 
+ Progress : 2081 / 39001 
+ Progress : 2091 / 39001 
+ Progress : 2101 / 39001 
+ Current minibatch Loss= 120.947540, Training Accuracy= 99.2%
+ Progress : 2111 / 39001 
+ Progress : 2121 / 39001 
+ Progress : 2131 / 39001 
+ Progress : 2141 / 39001 
+ Progress : 2151 / 39001 
+ Current minibatch Loss= 138.910095, Training Accuracy= 98.4%
+ Progress : 2161 / 39001 
+ Progress : 2171 / 39001 
+ Progress : 2181 / 39001 
+ Progress : 2191 / 39001 
+ Progress : 2201 / 39001 
+ Current minibatch Loss= 423.646240, Training Accuracy= 96.9%
+ Progress : 2211 / 39001 
+ Progress : 2221 / 39001 
+ Progress : 2231 / 39001 
+ Progress : 2241 / 39001 
+ Progress : 2251 / 39001 
+ Current minibatch Loss= 97.503876, Training Accuracy= 99.2%
+ Progress : 2261 / 39001 
+ Progress : 2271 / 39001 
+ Progress : 2281 / 39001 
+ Progress : 2291 / 39001 
+ Progress : 2301 / 39001 
+ Current minibatch Loss= 287.673553, Training Accuracy= 98.4%
+ Progress : 2311 / 39001 
+ Progress : 2321 / 39001 
+ Progress : 2331 / 39001 
+ Progress : 2341 / 39001 
+ Progress : 2351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 2361 / 39001 
+ Progress : 2371 / 39001 
+ Progress : 2381 / 39001 
+ Progress : 2391 / 39001 
+ Progress : 2401 / 39001 
+ Current minibatch Loss= 33.172455, Training Accuracy= 98.4%
+ Progress : 2411 / 39001 
+ Progress : 2421 / 39001 
+ Progress : 2431 / 39001 
+ Progress : 2441 / 39001 
+ Progress : 2451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 2461 / 39001 
+ Progress : 2471 / 39001 
+ Progress : 2481 / 39001 
+ Progress : 2491 / 39001 
+ Progress : 2501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 2511 / 39001 
+ Progress : 2521 / 39001 
+ Progress : 2531 / 39001 
+ Progress : 2541 / 39001 
+ Progress : 2551 / 39001 
+ Current minibatch Loss= 180.298080, Training Accuracy= 98.4%
+ Progress : 2561 / 39001 
+ Progress : 2571 / 39001 
+ Progress : 2581 / 39001 
+ Progress : 2591 / 39001 
+ Progress : 2601 / 39001 
+ Current minibatch Loss= 8.909119, Training Accuracy= 99.2%
+ Progress : 2611 / 39001 
+ Progress : 2621 / 39001 
+ Progress : 2631 / 39001 
+ Progress : 2641 / 39001 
+ Progress : 2651 / 39001 
+ Current minibatch Loss= 53.653076, Training Accuracy= 99.2%
+ Progress : 2661 / 39001 
+ Progress : 2671 / 39001 
+ Progress : 2681 / 39001 
+ Progress : 2691 / 39001 
+ Progress : 2701 / 39001 
+ Current minibatch Loss= 140.764374, Training Accuracy= 99.2%
+ Progress : 2711 / 39001 
+ Progress : 2721 / 39001 
+ Progress : 2731 / 39001 
+ Progress : 2741 / 39001 
+ Progress : 2751 / 39001 
+ Current minibatch Loss= 132.435028, Training Accuracy= 97.7%
+ Progress : 2761 / 39001 
+ Progress : 2771 / 39001 
+ Progress : 2781 / 39001 
+ Progress : 2791 / 39001 
+ Progress : 2801 / 39001 
+ Current minibatch Loss= 15.163574, Training Accuracy= 99.2%
+ Progress : 2811 / 39001 
+ Progress : 2821 / 39001 
+ Progress : 2831 / 39001 
+ Progress : 2841 / 39001 
+ Progress : 2851 / 39001 
+ Current minibatch Loss= 83.401260, Training Accuracy= 99.2%
+ Progress : 2861 / 39001 
+ Progress : 2871 / 39001 
+ Progress : 2881 / 39001 
+ Progress : 2891 / 39001 
+ Progress : 2901 / 39001 
+ Current minibatch Loss= 26.940063, Training Accuracy= 99.2%
+ Progress : 2911 / 39001 
+ Progress : 2921 / 39001 
+ Progress : 2931 / 39001 
+ Progress : 2941 / 39001 
+ Progress : 2951 / 39001 
+ Current minibatch Loss= 36.330933, Training Accuracy= 99.2%
+ Progress : 2961 / 39001 
+ Progress : 2971 / 39001 
+ Progress : 2981 / 39001 
+ Progress : 2991 / 39001 
+ Progress : 3001 / 39001 
+ Current minibatch Loss= 21.153015, Training Accuracy= 99.2%
+ Current testing data Loss= 255.440918, Training Accuracy= 97.9%
+ New highest probabilty : 97.879999876%
+ Model saved in file: ./model_cnn-i3000-b128-a97.879999876/model.ckpt
+Current highest : 97.879999876%
+ Progress : 3011 / 39001 
+ Progress : 3021 / 39001 
+ Progress : 3031 / 39001 
+ Progress : 3041 / 39001 
+ Progress : 3051 / 39001 
+ Current minibatch Loss= 90.298828, Training Accuracy= 98.4%
+ Progress : 3061 / 39001 
+ Progress : 3071 / 39001 
+ Progress : 3081 / 39001 
+ Progress : 3091 / 39001 
+ Progress : 3101 / 39001 
+ Current minibatch Loss= 199.907059, Training Accuracy= 96.9%
+ Progress : 3111 / 39001 
+ Progress : 3121 / 39001 
+ Progress : 3131 / 39001 
+ Progress : 3141 / 39001 
+ Progress : 3151 / 39001 
+ Current minibatch Loss= 99.703453, Training Accuracy= 97.7%
+ Progress : 3161 / 39001 
+ Progress : 3171 / 39001 
+ Progress : 3181 / 39001 
+ Progress : 3191 / 39001 
+ Progress : 3201 / 39001 
+ Current minibatch Loss= 4.198822, Training Accuracy= 99.2%
+ Progress : 3211 / 39001 
+ Progress : 3221 / 39001 
+ Progress : 3231 / 39001 
+ Progress : 3241 / 39001 
+ Progress : 3251 / 39001 
+ Current minibatch Loss= 26.516495, Training Accuracy= 97.7%
+ Progress : 3261 / 39001 
+ Progress : 3271 / 39001 
+ Progress : 3281 / 39001 
+ Progress : 3291 / 39001 
+ Progress : 3301 / 39001 
+ Current minibatch Loss= 233.788300, Training Accuracy= 98.4%
+ Progress : 3311 / 39001 
+ Progress : 3321 / 39001 
+ Progress : 3331 / 39001 
+ Progress : 3341 / 39001 
+ Progress : 3351 / 39001 
+ Current minibatch Loss= 269.019348, Training Accuracy= 97.7%
+ Progress : 3361 / 39001 
+ Progress : 3371 / 39001 
+ Progress : 3381 / 39001 
+ Progress : 3391 / 39001 
+ Progress : 3401 / 39001 
+ Current minibatch Loss= 83.399231, Training Accuracy= 98.4%
+ Progress : 3411 / 39001 
+ Progress : 3421 / 39001 
+ Progress : 3431 / 39001 
+ Progress : 3441 / 39001 
+ Progress : 3451 / 39001 
+ Current minibatch Loss= 63.294128, Training Accuracy= 99.2%
+ Progress : 3461 / 39001 
+ Progress : 3471 / 39001 
+ Progress : 3481 / 39001 
+ Progress : 3491 / 39001 
+ Progress : 3501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 3511 / 39001 
+ Progress : 3521 / 39001 
+ Progress : 3531 / 39001 
+ Progress : 3541 / 39001 
+ Progress : 3551 / 39001 
+ Current minibatch Loss= 18.100998, Training Accuracy= 99.2%
+ Progress : 3561 / 39001 
+ Progress : 3571 / 39001 
+ Progress : 3581 / 39001 
+ Progress : 3591 / 39001 
+ Progress : 3601 / 39001 
+ Current minibatch Loss= 144.822662, Training Accuracy= 99.2%
+ Progress : 3611 / 39001 
+ Progress : 3621 / 39001 
+ Progress : 3631 / 39001 
+ Progress : 3641 / 39001 
+ Progress : 3651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 3661 / 39001 
+ Progress : 3671 / 39001 
+ Progress : 3681 / 39001 
+ Progress : 3691 / 39001 
+ Progress : 3701 / 39001 
+ Current minibatch Loss= 157.057388, Training Accuracy= 98.4%
+ Progress : 3711 / 39001 
+ Progress : 3721 / 39001 
+ Progress : 3731 / 39001 
+ Progress : 3741 / 39001 
+ Progress : 3751 / 39001 
+ Current minibatch Loss= 30.891762, Training Accuracy= 98.4%
+ Progress : 3761 / 39001 
+ Progress : 3771 / 39001 
+ Progress : 3781 / 39001 
+ Progress : 3791 / 39001 
+ Progress : 3801 / 39001 
+ Current minibatch Loss= 200.701019, Training Accuracy= 96.9%
+ Progress : 3811 / 39001 
+ Progress : 3821 / 39001 
+ Progress : 3831 / 39001 
+ Progress : 3841 / 39001 
+ Progress : 3851 / 39001 
+ Current minibatch Loss= 248.685196, Training Accuracy= 97.7%
+ Progress : 3861 / 39001 
+ Progress : 3871 / 39001 
+ Progress : 3881 / 39001 
+ Progress : 3891 / 39001 
+ Progress : 3901 / 39001 
+ Current minibatch Loss= 79.472916, Training Accuracy= 98.4%
+ Progress : 3911 / 39001 
+ Progress : 3921 / 39001 
+ Progress : 3931 / 39001 
+ Progress : 3941 / 39001 
+ Progress : 3951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 3961 / 39001 
+ Progress : 3971 / 39001 
+ Progress : 3981 / 39001 
+ Progress : 3991 / 39001 
+ Progress : 4001 / 39001 
+ Current minibatch Loss= 28.821861, Training Accuracy= 98.4%
+ Current testing data Loss= 222.502106, Training Accuracy= 98.1%
+ New highest probabilty : 98.1100022793%
+ Model saved in file: ./model_cnn-i4000-b128-a98.1100022793/model.ckpt
+Current highest : 98.1100022793%
+ Progress : 4011 / 39001 
+ Progress : 4021 / 39001 
+ Progress : 4031 / 39001 
+ Progress : 4041 / 39001 
+ Progress : 4051 / 39001 
+ Current minibatch Loss= 18.690918, Training Accuracy= 99.2%
+ Progress : 4061 / 39001 
+ Progress : 4071 / 39001 
+ Progress : 4081 / 39001 
+ Progress : 4091 / 39001 
+ Progress : 4101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 4111 / 39001 
+ Progress : 4121 / 39001 
+ Progress : 4131 / 39001 
+ Progress : 4141 / 39001 
+ Progress : 4151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 4161 / 39001 
+ Progress : 4171 / 39001 
+ Progress : 4181 / 39001 
+ Progress : 4191 / 39001 
+ Progress : 4201 / 39001 
+ Current minibatch Loss= 19.124847, Training Accuracy= 98.4%
+ Progress : 4211 / 39001 
+ Progress : 4221 / 39001 
+ Progress : 4231 / 39001 
+ Progress : 4241 / 39001 
+ Progress : 4251 / 39001 
+ Current minibatch Loss= 5.120380, Training Accuracy= 99.2%
+ Progress : 4261 / 39001 
+ Progress : 4271 / 39001 
+ Progress : 4281 / 39001 
+ Progress : 4291 / 39001 
+ Progress : 4301 / 39001 
+ Current minibatch Loss= 471.504272, Training Accuracy= 97.7%
+ Progress : 4311 / 39001 
+ Progress : 4321 / 39001 
+ Progress : 4331 / 39001 
+ Progress : 4341 / 39001 
+ Progress : 4351 / 39001 
+ Current minibatch Loss= 84.758301, Training Accuracy= 99.2%
+ Progress : 4361 / 39001 
+ Progress : 4371 / 39001 
+ Progress : 4381 / 39001 
+ Progress : 4391 / 39001 
+ Progress : 4401 / 39001 
+ Current minibatch Loss= 149.530838, Training Accuracy= 98.4%
+ Progress : 4411 / 39001 
+ Progress : 4421 / 39001 
+ Progress : 4431 / 39001 
+ Progress : 4441 / 39001 
+ Progress : 4451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 4461 / 39001 
+ Progress : 4471 / 39001 
+ Progress : 4481 / 39001 
+ Progress : 4491 / 39001 
+ Progress : 4501 / 39001 
+ Current minibatch Loss= 94.584427, Training Accuracy= 99.2%
+ Progress : 4511 / 39001 
+ Progress : 4521 / 39001 
+ Progress : 4531 / 39001 
+ Progress : 4541 / 39001 
+ Progress : 4551 / 39001 
+ Current minibatch Loss= 0.241341, Training Accuracy= 99.2%
+ Progress : 4561 / 39001 
+ Progress : 4571 / 39001 
+ Progress : 4581 / 39001 
+ Progress : 4591 / 39001 
+ Progress : 4601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 4611 / 39001 
+ Progress : 4621 / 39001 
+ Progress : 4631 / 39001 
+ Progress : 4641 / 39001 
+ Progress : 4651 / 39001 
+ Current minibatch Loss= 46.817596, Training Accuracy= 98.4%
+ Progress : 4661 / 39001 
+ Progress : 4671 / 39001 
+ Progress : 4681 / 39001 
+ Progress : 4691 / 39001 
+ Progress : 4701 / 39001 
+ Current minibatch Loss= 47.894424, Training Accuracy= 99.2%
+ Progress : 4711 / 39001 
+ Progress : 4721 / 39001 
+ Progress : 4731 / 39001 
+ Progress : 4741 / 39001 
+ Progress : 4751 / 39001 
+ Current minibatch Loss= 4.080063, Training Accuracy= 99.2%
+ Progress : 4761 / 39001 
+ Progress : 4771 / 39001 
+ Progress : 4781 / 39001 
+ Progress : 4791 / 39001 
+ Progress : 4801 / 39001 
+ Current minibatch Loss= 55.930054, Training Accuracy= 99.2%
+ Progress : 4811 / 39001 
+ Progress : 4821 / 39001 
+ Progress : 4831 / 39001 
+ Progress : 4841 / 39001 
+ Progress : 4851 / 39001 
+ Current minibatch Loss= 154.905655, Training Accuracy= 98.4%
+ Progress : 4861 / 39001 
+ Progress : 4871 / 39001 
+ Progress : 4881 / 39001 
+ Progress : 4891 / 39001 
+ Progress : 4901 / 39001 
+ Current minibatch Loss= 98.825439, Training Accuracy= 99.2%
+ Progress : 4911 / 39001 
+ Progress : 4921 / 39001 
+ Progress : 4931 / 39001 
+ Progress : 4941 / 39001 
+ Progress : 4951 / 39001 
+ Current minibatch Loss= 91.235291, Training Accuracy= 99.2%
+ Progress : 4961 / 39001 
+ Progress : 4971 / 39001 
+ Progress : 4981 / 39001 
+ Progress : 4991 / 39001 
+ Progress : 5001 / 39001 
+ Current minibatch Loss= 56.741722, Training Accuracy= 98.4%
+ Current testing data Loss= 156.991730, Training Accuracy= 98.4%
+ New highest probabilty : 98.400002718%
+ Model saved in file: ./model_cnn-i5000-b128-a98.400002718/model.ckpt
+Current highest : 98.400002718%
+ Progress : 5011 / 39001 
+ Progress : 5021 / 39001 
+ Progress : 5031 / 39001 
+ Progress : 5041 / 39001 
+ Progress : 5051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 5061 / 39001 
+ Progress : 5071 / 39001 
+ Progress : 5081 / 39001 
+ Progress : 5091 / 39001 
+ Progress : 5101 / 39001 
+ Current minibatch Loss= 36.632866, Training Accuracy= 98.4%
+ Progress : 5111 / 39001 
+ Progress : 5121 / 39001 
+ Progress : 5131 / 39001 
+ Progress : 5141 / 39001 
+ Progress : 5151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 5161 / 39001 
+ Progress : 5171 / 39001 
+ Progress : 5181 / 39001 
+ Progress : 5191 / 39001 
+ Progress : 5201 / 39001 
+ Current minibatch Loss= 147.789963, Training Accuracy= 99.2%
+ Progress : 5211 / 39001 
+ Progress : 5221 / 39001 
+ Progress : 5231 / 39001 
+ Progress : 5241 / 39001 
+ Progress : 5251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 5261 / 39001 
+ Progress : 5271 / 39001 
+ Progress : 5281 / 39001 
+ Progress : 5291 / 39001 
+ Progress : 5301 / 39001 
+ Current minibatch Loss= 26.549118, Training Accuracy= 98.4%
+ Progress : 5311 / 39001 
+ Progress : 5321 / 39001 
+ Progress : 5331 / 39001 
+ Progress : 5341 / 39001 
+ Progress : 5351 / 39001 
+ Current minibatch Loss= 10.552895, Training Accuracy= 98.4%
+ Progress : 5361 / 39001 
+ Progress : 5371 / 39001 
+ Progress : 5381 / 39001 
+ Progress : 5391 / 39001 
+ Progress : 5401 / 39001 
+ Current minibatch Loss= 103.950401, Training Accuracy= 96.9%
+ Progress : 5411 / 39001 
+ Progress : 5421 / 39001 
+ Progress : 5431 / 39001 
+ Progress : 5441 / 39001 
+ Progress : 5451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 5461 / 39001 
+ Progress : 5471 / 39001 
+ Progress : 5481 / 39001 
+ Progress : 5491 / 39001 
+ Progress : 5501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 5511 / 39001 
+ Progress : 5521 / 39001 
+ Progress : 5531 / 39001 
+ Progress : 5541 / 39001 
+ Progress : 5551 / 39001 
+ Current minibatch Loss= 112.428131, Training Accuracy= 98.4%
+ Progress : 5561 / 39001 
+ Progress : 5571 / 39001 
+ Progress : 5581 / 39001 
+ Progress : 5591 / 39001 
+ Progress : 5601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 5611 / 39001 
+ Progress : 5621 / 39001 
+ Progress : 5631 / 39001 
+ Progress : 5641 / 39001 
+ Progress : 5651 / 39001 
+ Current minibatch Loss= 7.843910, Training Accuracy= 98.4%
+ Progress : 5661 / 39001 
+ Progress : 5671 / 39001 
+ Progress : 5681 / 39001 
+ Progress : 5691 / 39001 
+ Progress : 5701 / 39001 
+ Current minibatch Loss= 24.769104, Training Accuracy= 99.2%
+ Progress : 5711 / 39001 
+ Progress : 5721 / 39001 
+ Progress : 5731 / 39001 
+ Progress : 5741 / 39001 
+ Progress : 5751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 5761 / 39001 
+ Progress : 5771 / 39001 
+ Progress : 5781 / 39001 
+ Progress : 5791 / 39001 
+ Progress : 5801 / 39001 
+ Current minibatch Loss= 0.742279, Training Accuracy= 99.2%
+ Progress : 5811 / 39001 
+ Progress : 5821 / 39001 
+ Progress : 5831 / 39001 
+ Progress : 5841 / 39001 
+ Progress : 5851 / 39001 
+ Current minibatch Loss= 112.616302, Training Accuracy= 98.4%
+ Progress : 5861 / 39001 
+ Progress : 5871 / 39001 
+ Progress : 5881 / 39001 
+ Progress : 5891 / 39001 
+ Progress : 5901 / 39001 
+ Current minibatch Loss= 35.614746, Training Accuracy= 99.2%
+ Progress : 5911 / 39001 
+ Progress : 5921 / 39001 
+ Progress : 5931 / 39001 
+ Progress : 5941 / 39001 
+ Progress : 5951 / 39001 
+ Current minibatch Loss= 15.243713, Training Accuracy= 99.2%
+ Progress : 5961 / 39001 
+ Progress : 5971 / 39001 
+ Progress : 5981 / 39001 
+ Progress : 5991 / 39001 
+ Progress : 6001 / 39001 
+ Current minibatch Loss= 2.704620, Training Accuracy= 99.2%
+ Current testing data Loss= 144.888794, Training Accuracy= 98.1%
+Current highest : 98.400002718%
+ Progress : 6011 / 39001 
+ Progress : 6021 / 39001 
+ Progress : 6031 / 39001 
+ Progress : 6041 / 39001 
+ Progress : 6051 / 39001 
+ Current minibatch Loss= 32.826519, Training Accuracy= 99.2%
+ Progress : 6061 / 39001 
+ Progress : 6071 / 39001 
+ Progress : 6081 / 39001 
+ Progress : 6091 / 39001 
+ Progress : 6101 / 39001 
+ Current minibatch Loss= 47.197083, Training Accuracy= 99.2%
+ Progress : 6111 / 39001 
+ Progress : 6121 / 39001 
+ Progress : 6131 / 39001 
+ Progress : 6141 / 39001 
+ Progress : 6151 / 39001 
+ Current minibatch Loss= 55.607388, Training Accuracy= 99.2%
+ Progress : 6161 / 39001 
+ Progress : 6171 / 39001 
+ Progress : 6181 / 39001 
+ Progress : 6191 / 39001 
+ Progress : 6201 / 39001 
+ Current minibatch Loss= 110.194817, Training Accuracy= 97.7%
+ Progress : 6211 / 39001 
+ Progress : 6221 / 39001 
+ Progress : 6231 / 39001 
+ Progress : 6241 / 39001 
+ Progress : 6251 / 39001 
+ Current minibatch Loss= 21.466278, Training Accuracy= 99.2%
+ Progress : 6261 / 39001 
+ Progress : 6271 / 39001 
+ Progress : 6281 / 39001 
+ Progress : 6291 / 39001 
+ Progress : 6301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 6311 / 39001 
+ Progress : 6321 / 39001 
+ Progress : 6331 / 39001 
+ Progress : 6341 / 39001 
+ Progress : 6351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 6361 / 39001 
+ Progress : 6371 / 39001 
+ Progress : 6381 / 39001 
+ Progress : 6391 / 39001 
+ Progress : 6401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 6411 / 39001 
+ Progress : 6421 / 39001 
+ Progress : 6431 / 39001 
+ Progress : 6441 / 39001 
+ Progress : 6451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 6461 / 39001 
+ Progress : 6471 / 39001 
+ Progress : 6481 / 39001 
+ Progress : 6491 / 39001 
+ Progress : 6501 / 39001 
+ Current minibatch Loss= 6.844543, Training Accuracy= 99.2%
+ Progress : 6511 / 39001 
+ Progress : 6521 / 39001 
+ Progress : 6531 / 39001 
+ Progress : 6541 / 39001 
+ Progress : 6551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 6561 / 39001 
+ Progress : 6571 / 39001 
+ Progress : 6581 / 39001 
+ Progress : 6591 / 39001 
+ Progress : 6601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 6611 / 39001 
+ Progress : 6621 / 39001 
+ Progress : 6631 / 39001 
+ Progress : 6641 / 39001 
+ Progress : 6651 / 39001 
+ Current minibatch Loss= 12.217152, Training Accuracy= 99.2%
+ Progress : 6661 / 39001 
+ Progress : 6671 / 39001 
+ Progress : 6681 / 39001 
+ Progress : 6691 / 39001 
+ Progress : 6701 / 39001 
+ Current minibatch Loss= 113.269928, Training Accuracy= 97.7%
+ Progress : 6711 / 39001 
+ Progress : 6721 / 39001 
+ Progress : 6731 / 39001 
+ Progress : 6741 / 39001 
+ Progress : 6751 / 39001 
+ Current minibatch Loss= 30.415775, Training Accuracy= 99.2%
+ Progress : 6761 / 39001 
+ Progress : 6771 / 39001 
+ Progress : 6781 / 39001 
+ Progress : 6791 / 39001 
+ Progress : 6801 / 39001 
+ Current minibatch Loss= 49.199150, Training Accuracy= 98.4%
+ Progress : 6811 / 39001 
+ Progress : 6821 / 39001 
+ Progress : 6831 / 39001 
+ Progress : 6841 / 39001 
+ Progress : 6851 / 39001 
+ Current minibatch Loss= 10.081940, Training Accuracy= 99.2%
+ Progress : 6861 / 39001 
+ Progress : 6871 / 39001 
+ Progress : 6881 / 39001 
+ Progress : 6891 / 39001 
+ Progress : 6901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 6911 / 39001 
+ Progress : 6921 / 39001 
+ Progress : 6931 / 39001 
+ Progress : 6941 / 39001 
+ Progress : 6951 / 39001 
+ Current minibatch Loss= 97.526627, Training Accuracy= 99.2%
+ Progress : 6961 / 39001 
+ Progress : 6971 / 39001 
+ Progress : 6981 / 39001 
+ Progress : 6991 / 39001 
+ Progress : 7001 / 39001 
+ Current minibatch Loss= 69.792297, Training Accuracy= 98.4%
+ Current testing data Loss= 141.846603, Training Accuracy= 98.4%
+Current highest : 98.400002718%
+ Progress : 7011 / 39001 
+ Progress : 7021 / 39001 
+ Progress : 7031 / 39001 
+ Progress : 7041 / 39001 
+ Progress : 7051 / 39001 
+ Current minibatch Loss= 0.548050, Training Accuracy= 99.2%
+ Progress : 7061 / 39001 
+ Progress : 7071 / 39001 
+ Progress : 7081 / 39001 
+ Progress : 7091 / 39001 
+ Progress : 7101 / 39001 
+ Current minibatch Loss= 14.894291, Training Accuracy= 99.2%
+ Progress : 7111 / 39001 
+ Progress : 7121 / 39001 
+ Progress : 7131 / 39001 
+ Progress : 7141 / 39001 
+ Progress : 7151 / 39001 
+ Current minibatch Loss= 64.291618, Training Accuracy= 99.2%
+ Progress : 7161 / 39001 
+ Progress : 7171 / 39001 
+ Progress : 7181 / 39001 
+ Progress : 7191 / 39001 
+ Progress : 7201 / 39001 
+ Current minibatch Loss= 67.675110, Training Accuracy= 99.2%
+ Progress : 7211 / 39001 
+ Progress : 7221 / 39001 
+ Progress : 7231 / 39001 
+ Progress : 7241 / 39001 
+ Progress : 7251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 7261 / 39001 
+ Progress : 7271 / 39001 
+ Progress : 7281 / 39001 
+ Progress : 7291 / 39001 
+ Progress : 7301 / 39001 
+ Current minibatch Loss= 11.752792, Training Accuracy= 99.2%
+ Progress : 7311 / 39001 
+ Progress : 7321 / 39001 
+ Progress : 7331 / 39001 
+ Progress : 7341 / 39001 
+ Progress : 7351 / 39001 
+ Current minibatch Loss= 2.353035, Training Accuracy= 99.2%
+ Progress : 7361 / 39001 
+ Progress : 7371 / 39001 
+ Progress : 7381 / 39001 
+ Progress : 7391 / 39001 
+ Progress : 7401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 7411 / 39001 
+ Progress : 7421 / 39001 
+ Progress : 7431 / 39001 
+ Progress : 7441 / 39001 
+ Progress : 7451 / 39001 
+ Current minibatch Loss= 30.653030, Training Accuracy= 99.2%
+ Progress : 7461 / 39001 
+ Progress : 7471 / 39001 
+ Progress : 7481 / 39001 
+ Progress : 7491 / 39001 
+ Progress : 7501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 7511 / 39001 
+ Progress : 7521 / 39001 
+ Progress : 7531 / 39001 
+ Progress : 7541 / 39001 
+ Progress : 7551 / 39001 
+ Current minibatch Loss= 6.665421, Training Accuracy= 99.2%
+ Progress : 7561 / 39001 
+ Progress : 7571 / 39001 
+ Progress : 7581 / 39001 
+ Progress : 7591 / 39001 
+ Progress : 7601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 7611 / 39001 
+ Progress : 7621 / 39001 
+ Progress : 7631 / 39001 
+ Progress : 7641 / 39001 
+ Progress : 7651 / 39001 
+ Current minibatch Loss= 38.329529, Training Accuracy= 99.2%
+ Progress : 7661 / 39001 
+ Progress : 7671 / 39001 
+ Progress : 7681 / 39001 
+ Progress : 7691 / 39001 
+ Progress : 7701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 7711 / 39001 
+ Progress : 7721 / 39001 
+ Progress : 7731 / 39001 
+ Progress : 7741 / 39001 
+ Progress : 7751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 7761 / 39001 
+ Progress : 7771 / 39001 
+ Progress : 7781 / 39001 
+ Progress : 7791 / 39001 
+ Progress : 7801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 7811 / 39001 
+ Progress : 7821 / 39001 
+ Progress : 7831 / 39001 
+ Progress : 7841 / 39001 
+ Progress : 7851 / 39001 
+ Current minibatch Loss= 15.360081, Training Accuracy= 98.4%
+ Progress : 7861 / 39001 
+ Progress : 7871 / 39001 
+ Progress : 7881 / 39001 
+ Progress : 7891 / 39001 
+ Progress : 7901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 7911 / 39001 
+ Progress : 7921 / 39001 
+ Progress : 7931 / 39001 
+ Progress : 7941 / 39001 
+ Progress : 7951 / 39001 
+ Current minibatch Loss= 3.916977, Training Accuracy= 99.2%
+ Progress : 7961 / 39001 
+ Progress : 7971 / 39001 
+ Progress : 7981 / 39001 
+ Progress : 7991 / 39001 
+ Progress : 8001 / 39001 
+ Current minibatch Loss= 36.362782, Training Accuracy= 97.7%
+ Current testing data Loss= 126.841728, Training Accuracy= 98.5%
+ New highest probabilty : 98.5000014305%
+ Model saved in file: ./model_cnn-i8000-b128-a98.5000014305/model.ckpt
+Current highest : 98.5000014305%
+ Progress : 8011 / 39001 
+ Progress : 8021 / 39001 
+ Progress : 8031 / 39001 
+ Progress : 8041 / 39001 
+ Progress : 8051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 8061 / 39001 
+ Progress : 8071 / 39001 
+ Progress : 8081 / 39001 
+ Progress : 8091 / 39001 
+ Progress : 8101 / 39001 
+ Current minibatch Loss= 45.152275, Training Accuracy= 99.2%
+ Progress : 8111 / 39001 
+ Progress : 8121 / 39001 
+ Progress : 8131 / 39001 
+ Progress : 8141 / 39001 
+ Progress : 8151 / 39001 
+ Current minibatch Loss= 3.208389, Training Accuracy= 99.2%
+ Progress : 8161 / 39001 
+ Progress : 8171 / 39001 
+ Progress : 8181 / 39001 
+ Progress : 8191 / 39001 
+ Progress : 8201 / 39001 
+ Current minibatch Loss= 15.206810, Training Accuracy= 98.4%
+ Progress : 8211 / 39001 
+ Progress : 8221 / 39001 
+ Progress : 8231 / 39001 
+ Progress : 8241 / 39001 
+ Progress : 8251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 8261 / 39001 
+ Progress : 8271 / 39001 
+ Progress : 8281 / 39001 
+ Progress : 8291 / 39001 
+ Progress : 8301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 8311 / 39001 
+ Progress : 8321 / 39001 
+ Progress : 8331 / 39001 
+ Progress : 8341 / 39001 
+ Progress : 8351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 8361 / 39001 
+ Progress : 8371 / 39001 
+ Progress : 8381 / 39001 
+ Progress : 8391 / 39001 
+ Progress : 8401 / 39001 
+ Current minibatch Loss= 32.557121, Training Accuracy= 99.2%
+ Progress : 8411 / 39001 
+ Progress : 8421 / 39001 
+ Progress : 8431 / 39001 
+ Progress : 8441 / 39001 
+ Progress : 8451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 8461 / 39001 
+ Progress : 8471 / 39001 
+ Progress : 8481 / 39001 
+ Progress : 8491 / 39001 
+ Progress : 8501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 8511 / 39001 
+ Progress : 8521 / 39001 
+ Progress : 8531 / 39001 
+ Progress : 8541 / 39001 
+ Progress : 8551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 8561 / 39001 
+ Progress : 8571 / 39001 
+ Progress : 8581 / 39001 
+ Progress : 8591 / 39001 
+ Progress : 8601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 8611 / 39001 
+ Progress : 8621 / 39001 
+ Progress : 8631 / 39001 
+ Progress : 8641 / 39001 
+ Progress : 8651 / 39001 
+ Current minibatch Loss= 11.667892, Training Accuracy= 99.2%
+ Progress : 8661 / 39001 
+ Progress : 8671 / 39001 
+ Progress : 8681 / 39001 
+ Progress : 8691 / 39001 
+ Progress : 8701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 8711 / 39001 
+ Progress : 8721 / 39001 
+ Progress : 8731 / 39001 
+ Progress : 8741 / 39001 
+ Progress : 8751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 8761 / 39001 
+ Progress : 8771 / 39001 
+ Progress : 8781 / 39001 
+ Progress : 8791 / 39001 
+ Progress : 8801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 8811 / 39001 
+ Progress : 8821 / 39001 
+ Progress : 8831 / 39001 
+ Progress : 8841 / 39001 
+ Progress : 8851 / 39001 
+ Current minibatch Loss= 15.040596, Training Accuracy= 98.4%
+ Progress : 8861 / 39001 
+ Progress : 8871 / 39001 
+ Progress : 8881 / 39001 
+ Progress : 8891 / 39001 
+ Progress : 8901 / 39001 
+ Current minibatch Loss= 19.073051, Training Accuracy= 99.2%
+ Progress : 8911 / 39001 
+ Progress : 8921 / 39001 
+ Progress : 8931 / 39001 
+ Progress : 8941 / 39001 
+ Progress : 8951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 8961 / 39001 
+ Progress : 8971 / 39001 
+ Progress : 8981 / 39001 
+ Progress : 8991 / 39001 
+ Progress : 9001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 112.359451, Training Accuracy= 98.4%
+Current highest : 98.5000014305%
+ Progress : 9011 / 39001 
+ Progress : 9021 / 39001 
+ Progress : 9031 / 39001 
+ Progress : 9041 / 39001 
+ Progress : 9051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 9061 / 39001 
+ Progress : 9071 / 39001 
+ Progress : 9081 / 39001 
+ Progress : 9091 / 39001 
+ Progress : 9101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 9111 / 39001 
+ Progress : 9121 / 39001 
+ Progress : 9131 / 39001 
+ Progress : 9141 / 39001 
+ Progress : 9151 / 39001 
+ Current minibatch Loss= 47.505753, Training Accuracy= 99.2%
+ Progress : 9161 / 39001 
+ Progress : 9171 / 39001 
+ Progress : 9181 / 39001 
+ Progress : 9191 / 39001 
+ Progress : 9201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 9211 / 39001 
+ Progress : 9221 / 39001 
+ Progress : 9231 / 39001 
+ Progress : 9241 / 39001 
+ Progress : 9251 / 39001 
+ Current minibatch Loss= 22.563660, Training Accuracy= 99.2%
+ Progress : 9261 / 39001 
+ Progress : 9271 / 39001 
+ Progress : 9281 / 39001 
+ Progress : 9291 / 39001 
+ Progress : 9301 / 39001 
+ Current minibatch Loss= 29.499420, Training Accuracy= 99.2%
+ Progress : 9311 / 39001 
+ Progress : 9321 / 39001 
+ Progress : 9331 / 39001 
+ Progress : 9341 / 39001 
+ Progress : 9351 / 39001 
+ Current minibatch Loss= 22.927963, Training Accuracy= 99.2%
+ Progress : 9361 / 39001 
+ Progress : 9371 / 39001 
+ Progress : 9381 / 39001 
+ Progress : 9391 / 39001 
+ Progress : 9401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 9411 / 39001 
+ Progress : 9421 / 39001 
+ Progress : 9431 / 39001 
+ Progress : 9441 / 39001 
+ Progress : 9451 / 39001 
+ Current minibatch Loss= 26.017136, Training Accuracy= 99.2%
+ Progress : 9461 / 39001 
+ Progress : 9471 / 39001 
+ Progress : 9481 / 39001 
+ Progress : 9491 / 39001 
+ Progress : 9501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 9511 / 39001 
+ Progress : 9521 / 39001 
+ Progress : 9531 / 39001 
+ Progress : 9541 / 39001 
+ Progress : 9551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 9561 / 39001 
+ Progress : 9571 / 39001 
+ Progress : 9581 / 39001 
+ Progress : 9591 / 39001 
+ Progress : 9601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 9611 / 39001 
+ Progress : 9621 / 39001 
+ Progress : 9631 / 39001 
+ Progress : 9641 / 39001 
+ Progress : 9651 / 39001 
+ Current minibatch Loss= 20.769333, Training Accuracy= 99.2%
+ Progress : 9661 / 39001 
+ Progress : 9671 / 39001 
+ Progress : 9681 / 39001 
+ Progress : 9691 / 39001 
+ Progress : 9701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 9711 / 39001 
+ Progress : 9721 / 39001 
+ Progress : 9731 / 39001 
+ Progress : 9741 / 39001 
+ Progress : 9751 / 39001 
+ Current minibatch Loss= 3.898865, Training Accuracy= 99.2%
+ Progress : 9761 / 39001 
+ Progress : 9771 / 39001 
+ Progress : 9781 / 39001 
+ Progress : 9791 / 39001 
+ Progress : 9801 / 39001 
+ Current minibatch Loss= 32.120289, Training Accuracy= 98.4%
+ Progress : 9811 / 39001 
+ Progress : 9821 / 39001 
+ Progress : 9831 / 39001 
+ Progress : 9841 / 39001 
+ Progress : 9851 / 39001 
+ Current minibatch Loss= 21.158279, Training Accuracy= 99.2%
+ Progress : 9861 / 39001 
+ Progress : 9871 / 39001 
+ Progress : 9881 / 39001 
+ Progress : 9891 / 39001 
+ Progress : 9901 / 39001 
+ Current minibatch Loss= 18.547920, Training Accuracy= 99.2%
+ Progress : 9911 / 39001 
+ Progress : 9921 / 39001 
+ Progress : 9931 / 39001 
+ Progress : 9941 / 39001 
+ Progress : 9951 / 39001 
+ Current minibatch Loss= 22.870594, Training Accuracy= 98.4%
+ Progress : 9961 / 39001 
+ Progress : 9971 / 39001 
+ Progress : 9981 / 39001 
+ Progress : 9991 / 39001 
+ Progress : 10001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 83.816887, Training Accuracy= 98.7%
+ New highest probabilty : 98.6699998379%
+ Model saved in file: ./model_cnn-i10000-b128-a98.6699998379/model.ckpt
+Current highest : 98.6699998379%
+ Progress : 10011 / 39001 
+ Progress : 10021 / 39001 
+ Progress : 10031 / 39001 
+ Progress : 10041 / 39001 
+ Progress : 10051 / 39001 
+ Current minibatch Loss= 4.903763, Training Accuracy= 99.2%
+ Progress : 10061 / 39001 
+ Progress : 10071 / 39001 
+ Progress : 10081 / 39001 
+ Progress : 10091 / 39001 
+ Progress : 10101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 10111 / 39001 
+ Progress : 10121 / 39001 
+ Progress : 10131 / 39001 
+ Progress : 10141 / 39001 
+ Progress : 10151 / 39001 
+ Current minibatch Loss= 68.161652, Training Accuracy= 99.2%
+ Progress : 10161 / 39001 
+ Progress : 10171 / 39001 
+ Progress : 10181 / 39001 
+ Progress : 10191 / 39001 
+ Progress : 10201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 10211 / 39001 
+ Progress : 10221 / 39001 
+ Progress : 10231 / 39001 
+ Progress : 10241 / 39001 
+ Progress : 10251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 10261 / 39001 
+ Progress : 10271 / 39001 
+ Progress : 10281 / 39001 
+ Progress : 10291 / 39001 
+ Progress : 10301 / 39001 
+ Current minibatch Loss= 1.930916, Training Accuracy= 99.2%
+ Progress : 10311 / 39001 
+ Progress : 10321 / 39001 
+ Progress : 10331 / 39001 
+ Progress : 10341 / 39001 
+ Progress : 10351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 10361 / 39001 
+ Progress : 10371 / 39001 
+ Progress : 10381 / 39001 
+ Progress : 10391 / 39001 
+ Progress : 10401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 10411 / 39001 
+ Progress : 10421 / 39001 
+ Progress : 10431 / 39001 
+ Progress : 10441 / 39001 
+ Progress : 10451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 10461 / 39001 
+ Progress : 10471 / 39001 
+ Progress : 10481 / 39001 
+ Progress : 10491 / 39001 
+ Progress : 10501 / 39001 
+ Current minibatch Loss= 29.243912, Training Accuracy= 99.2%
+ Progress : 10511 / 39001 
+ Progress : 10521 / 39001 
+ Progress : 10531 / 39001 
+ Progress : 10541 / 39001 
+ Progress : 10551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 10561 / 39001 
+ Progress : 10571 / 39001 
+ Progress : 10581 / 39001 
+ Progress : 10591 / 39001 
+ Progress : 10601 / 39001 
+ Current minibatch Loss= 39.072556, Training Accuracy= 98.4%
+ Progress : 10611 / 39001 
+ Progress : 10621 / 39001 
+ Progress : 10631 / 39001 
+ Progress : 10641 / 39001 
+ Progress : 10651 / 39001 
+ Current minibatch Loss= 13.494263, Training Accuracy= 99.2%
+ Progress : 10661 / 39001 
+ Progress : 10671 / 39001 
+ Progress : 10681 / 39001 
+ Progress : 10691 / 39001 
+ Progress : 10701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 10711 / 39001 
+ Progress : 10721 / 39001 
+ Progress : 10731 / 39001 
+ Progress : 10741 / 39001 
+ Progress : 10751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 10761 / 39001 
+ Progress : 10771 / 39001 
+ Progress : 10781 / 39001 
+ Progress : 10791 / 39001 
+ Progress : 10801 / 39001 
+ Current minibatch Loss= 8.204430, Training Accuracy= 99.2%
+ Progress : 10811 / 39001 
+ Progress : 10821 / 39001 
+ Progress : 10831 / 39001 
+ Progress : 10841 / 39001 
+ Progress : 10851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 10861 / 39001 
+ Progress : 10871 / 39001 
+ Progress : 10881 / 39001 
+ Progress : 10891 / 39001 
+ Progress : 10901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 10911 / 39001 
+ Progress : 10921 / 39001 
+ Progress : 10931 / 39001 
+ Progress : 10941 / 39001 
+ Progress : 10951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 10961 / 39001 
+ Progress : 10971 / 39001 
+ Progress : 10981 / 39001 
+ Progress : 10991 / 39001 
+ Progress : 11001 / 39001 
+ Current minibatch Loss= 4.862370, Training Accuracy= 99.2%
+ Current testing data Loss= 77.590935, Training Accuracy= 98.7%
+ New highest probabilty : 98.6999988556%
+ Model saved in file: ./model_cnn-i11000-b128-a98.6999988556/model.ckpt
+Current highest : 98.6999988556%
+ Progress : 11011 / 39001 
+ Progress : 11021 / 39001 
+ Progress : 11031 / 39001 
+ Progress : 11041 / 39001 
+ Progress : 11051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11061 / 39001 
+ Progress : 11071 / 39001 
+ Progress : 11081 / 39001 
+ Progress : 11091 / 39001 
+ Progress : 11101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11111 / 39001 
+ Progress : 11121 / 39001 
+ Progress : 11131 / 39001 
+ Progress : 11141 / 39001 
+ Progress : 11151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11161 / 39001 
+ Progress : 11171 / 39001 
+ Progress : 11181 / 39001 
+ Progress : 11191 / 39001 
+ Progress : 11201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11211 / 39001 
+ Progress : 11221 / 39001 
+ Progress : 11231 / 39001 
+ Progress : 11241 / 39001 
+ Progress : 11251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11261 / 39001 
+ Progress : 11271 / 39001 
+ Progress : 11281 / 39001 
+ Progress : 11291 / 39001 
+ Progress : 11301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11311 / 39001 
+ Progress : 11321 / 39001 
+ Progress : 11331 / 39001 
+ Progress : 11341 / 39001 
+ Progress : 11351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11361 / 39001 
+ Progress : 11371 / 39001 
+ Progress : 11381 / 39001 
+ Progress : 11391 / 39001 
+ Progress : 11401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11411 / 39001 
+ Progress : 11421 / 39001 
+ Progress : 11431 / 39001 
+ Progress : 11441 / 39001 
+ Progress : 11451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11461 / 39001 
+ Progress : 11471 / 39001 
+ Progress : 11481 / 39001 
+ Progress : 11491 / 39001 
+ Progress : 11501 / 39001 
+ Current minibatch Loss= 69.803093, Training Accuracy= 98.4%
+ Progress : 11511 / 39001 
+ Progress : 11521 / 39001 
+ Progress : 11531 / 39001 
+ Progress : 11541 / 39001 
+ Progress : 11551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11561 / 39001 
+ Progress : 11571 / 39001 
+ Progress : 11581 / 39001 
+ Progress : 11591 / 39001 
+ Progress : 11601 / 39001 
+ Current minibatch Loss= 3.977985, Training Accuracy= 99.2%
+ Progress : 11611 / 39001 
+ Progress : 11621 / 39001 
+ Progress : 11631 / 39001 
+ Progress : 11641 / 39001 
+ Progress : 11651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11661 / 39001 
+ Progress : 11671 / 39001 
+ Progress : 11681 / 39001 
+ Progress : 11691 / 39001 
+ Progress : 11701 / 39001 
+ Current minibatch Loss= 28.021530, Training Accuracy= 99.2%
+ Progress : 11711 / 39001 
+ Progress : 11721 / 39001 
+ Progress : 11731 / 39001 
+ Progress : 11741 / 39001 
+ Progress : 11751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11761 / 39001 
+ Progress : 11771 / 39001 
+ Progress : 11781 / 39001 
+ Progress : 11791 / 39001 
+ Progress : 11801 / 39001 
+ Current minibatch Loss= 7.366302, Training Accuracy= 99.2%
+ Progress : 11811 / 39001 
+ Progress : 11821 / 39001 
+ Progress : 11831 / 39001 
+ Progress : 11841 / 39001 
+ Progress : 11851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11861 / 39001 
+ Progress : 11871 / 39001 
+ Progress : 11881 / 39001 
+ Progress : 11891 / 39001 
+ Progress : 11901 / 39001 
+ Current minibatch Loss= 11.371513, Training Accuracy= 98.4%
+ Progress : 11911 / 39001 
+ Progress : 11921 / 39001 
+ Progress : 11931 / 39001 
+ Progress : 11941 / 39001 
+ Progress : 11951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 11961 / 39001 
+ Progress : 11971 / 39001 
+ Progress : 11981 / 39001 
+ Progress : 11991 / 39001 
+ Progress : 12001 / 39001 
+ Current minibatch Loss= 31.994278, Training Accuracy= 99.2%
+ Current testing data Loss= 97.130386, Training Accuracy= 98.6%
+Current highest : 98.6999988556%
+ Progress : 12011 / 39001 
+ Progress : 12021 / 39001 
+ Progress : 12031 / 39001 
+ Progress : 12041 / 39001 
+ Progress : 12051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12061 / 39001 
+ Progress : 12071 / 39001 
+ Progress : 12081 / 39001 
+ Progress : 12091 / 39001 
+ Progress : 12101 / 39001 
+ Current minibatch Loss= 27.413116, Training Accuracy= 99.2%
+ Progress : 12111 / 39001 
+ Progress : 12121 / 39001 
+ Progress : 12131 / 39001 
+ Progress : 12141 / 39001 
+ Progress : 12151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12161 / 39001 
+ Progress : 12171 / 39001 
+ Progress : 12181 / 39001 
+ Progress : 12191 / 39001 
+ Progress : 12201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12211 / 39001 
+ Progress : 12221 / 39001 
+ Progress : 12231 / 39001 
+ Progress : 12241 / 39001 
+ Progress : 12251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12261 / 39001 
+ Progress : 12271 / 39001 
+ Progress : 12281 / 39001 
+ Progress : 12291 / 39001 
+ Progress : 12301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12311 / 39001 
+ Progress : 12321 / 39001 
+ Progress : 12331 / 39001 
+ Progress : 12341 / 39001 
+ Progress : 12351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12361 / 39001 
+ Progress : 12371 / 39001 
+ Progress : 12381 / 39001 
+ Progress : 12391 / 39001 
+ Progress : 12401 / 39001 
+ Current minibatch Loss= 8.792801, Training Accuracy= 99.2%
+ Progress : 12411 / 39001 
+ Progress : 12421 / 39001 
+ Progress : 12431 / 39001 
+ Progress : 12441 / 39001 
+ Progress : 12451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12461 / 39001 
+ Progress : 12471 / 39001 
+ Progress : 12481 / 39001 
+ Progress : 12491 / 39001 
+ Progress : 12501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12511 / 39001 
+ Progress : 12521 / 39001 
+ Progress : 12531 / 39001 
+ Progress : 12541 / 39001 
+ Progress : 12551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12561 / 39001 
+ Progress : 12571 / 39001 
+ Progress : 12581 / 39001 
+ Progress : 12591 / 39001 
+ Progress : 12601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12611 / 39001 
+ Progress : 12621 / 39001 
+ Progress : 12631 / 39001 
+ Progress : 12641 / 39001 
+ Progress : 12651 / 39001 
+ Current minibatch Loss= 5.220039, Training Accuracy= 99.2%
+ Progress : 12661 / 39001 
+ Progress : 12671 / 39001 
+ Progress : 12681 / 39001 
+ Progress : 12691 / 39001 
+ Progress : 12701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12711 / 39001 
+ Progress : 12721 / 39001 
+ Progress : 12731 / 39001 
+ Progress : 12741 / 39001 
+ Progress : 12751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12761 / 39001 
+ Progress : 12771 / 39001 
+ Progress : 12781 / 39001 
+ Progress : 12791 / 39001 
+ Progress : 12801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12811 / 39001 
+ Progress : 12821 / 39001 
+ Progress : 12831 / 39001 
+ Progress : 12841 / 39001 
+ Progress : 12851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12861 / 39001 
+ Progress : 12871 / 39001 
+ Progress : 12881 / 39001 
+ Progress : 12891 / 39001 
+ Progress : 12901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 12911 / 39001 
+ Progress : 12921 / 39001 
+ Progress : 12931 / 39001 
+ Progress : 12941 / 39001 
+ Progress : 12951 / 39001 
+ Current minibatch Loss= 12.928627, Training Accuracy= 99.2%
+ Progress : 12961 / 39001 
+ Progress : 12971 / 39001 
+ Progress : 12981 / 39001 
+ Progress : 12991 / 39001 
+ Progress : 13001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 78.491676, Training Accuracy= 98.6%
+Current highest : 98.6999988556%
+ Progress : 13011 / 39001 
+ Progress : 13021 / 39001 
+ Progress : 13031 / 39001 
+ Progress : 13041 / 39001 
+ Progress : 13051 / 39001 
+ Current minibatch Loss= 2.057617, Training Accuracy= 99.2%
+ Progress : 13061 / 39001 
+ Progress : 13071 / 39001 
+ Progress : 13081 / 39001 
+ Progress : 13091 / 39001 
+ Progress : 13101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13111 / 39001 
+ Progress : 13121 / 39001 
+ Progress : 13131 / 39001 
+ Progress : 13141 / 39001 
+ Progress : 13151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13161 / 39001 
+ Progress : 13171 / 39001 
+ Progress : 13181 / 39001 
+ Progress : 13191 / 39001 
+ Progress : 13201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13211 / 39001 
+ Progress : 13221 / 39001 
+ Progress : 13231 / 39001 
+ Progress : 13241 / 39001 
+ Progress : 13251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13261 / 39001 
+ Progress : 13271 / 39001 
+ Progress : 13281 / 39001 
+ Progress : 13291 / 39001 
+ Progress : 13301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13311 / 39001 
+ Progress : 13321 / 39001 
+ Progress : 13331 / 39001 
+ Progress : 13341 / 39001 
+ Progress : 13351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13361 / 39001 
+ Progress : 13371 / 39001 
+ Progress : 13381 / 39001 
+ Progress : 13391 / 39001 
+ Progress : 13401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13411 / 39001 
+ Progress : 13421 / 39001 
+ Progress : 13431 / 39001 
+ Progress : 13441 / 39001 
+ Progress : 13451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13461 / 39001 
+ Progress : 13471 / 39001 
+ Progress : 13481 / 39001 
+ Progress : 13491 / 39001 
+ Progress : 13501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13511 / 39001 
+ Progress : 13521 / 39001 
+ Progress : 13531 / 39001 
+ Progress : 13541 / 39001 
+ Progress : 13551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13561 / 39001 
+ Progress : 13571 / 39001 
+ Progress : 13581 / 39001 
+ Progress : 13591 / 39001 
+ Progress : 13601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13611 / 39001 
+ Progress : 13621 / 39001 
+ Progress : 13631 / 39001 
+ Progress : 13641 / 39001 
+ Progress : 13651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13661 / 39001 
+ Progress : 13671 / 39001 
+ Progress : 13681 / 39001 
+ Progress : 13691 / 39001 
+ Progress : 13701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13711 / 39001 
+ Progress : 13721 / 39001 
+ Progress : 13731 / 39001 
+ Progress : 13741 / 39001 
+ Progress : 13751 / 39001 
+ Current minibatch Loss= 17.374954, Training Accuracy= 99.2%
+ Progress : 13761 / 39001 
+ Progress : 13771 / 39001 
+ Progress : 13781 / 39001 
+ Progress : 13791 / 39001 
+ Progress : 13801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13811 / 39001 
+ Progress : 13821 / 39001 
+ Progress : 13831 / 39001 
+ Progress : 13841 / 39001 
+ Progress : 13851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13861 / 39001 
+ Progress : 13871 / 39001 
+ Progress : 13881 / 39001 
+ Progress : 13891 / 39001 
+ Progress : 13901 / 39001 
+ Current minibatch Loss= 23.749870, Training Accuracy= 99.2%
+ Progress : 13911 / 39001 
+ Progress : 13921 / 39001 
+ Progress : 13931 / 39001 
+ Progress : 13941 / 39001 
+ Progress : 13951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 13961 / 39001 
+ Progress : 13971 / 39001 
+ Progress : 13981 / 39001 
+ Progress : 13991 / 39001 
+ Progress : 14001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 70.890976, Training Accuracy= 98.9%
+ New highest probabilty : 98.8799989223%
+ Model saved in file: ./model_cnn-i14000-b128-a98.8799989223/model.ckpt
+Current highest : 98.8799989223%
+ Progress : 14011 / 39001 
+ Progress : 14021 / 39001 
+ Progress : 14031 / 39001 
+ Progress : 14041 / 39001 
+ Progress : 14051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14061 / 39001 
+ Progress : 14071 / 39001 
+ Progress : 14081 / 39001 
+ Progress : 14091 / 39001 
+ Progress : 14101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14111 / 39001 
+ Progress : 14121 / 39001 
+ Progress : 14131 / 39001 
+ Progress : 14141 / 39001 
+ Progress : 14151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14161 / 39001 
+ Progress : 14171 / 39001 
+ Progress : 14181 / 39001 
+ Progress : 14191 / 39001 
+ Progress : 14201 / 39001 
+ Current minibatch Loss= 2.723810, Training Accuracy= 99.2%
+ Progress : 14211 / 39001 
+ Progress : 14221 / 39001 
+ Progress : 14231 / 39001 
+ Progress : 14241 / 39001 
+ Progress : 14251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14261 / 39001 
+ Progress : 14271 / 39001 
+ Progress : 14281 / 39001 
+ Progress : 14291 / 39001 
+ Progress : 14301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14311 / 39001 
+ Progress : 14321 / 39001 
+ Progress : 14331 / 39001 
+ Progress : 14341 / 39001 
+ Progress : 14351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14361 / 39001 
+ Progress : 14371 / 39001 
+ Progress : 14381 / 39001 
+ Progress : 14391 / 39001 
+ Progress : 14401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14411 / 39001 
+ Progress : 14421 / 39001 
+ Progress : 14431 / 39001 
+ Progress : 14441 / 39001 
+ Progress : 14451 / 39001 
+ Current minibatch Loss= 1.591309, Training Accuracy= 99.2%
+ Progress : 14461 / 39001 
+ Progress : 14471 / 39001 
+ Progress : 14481 / 39001 
+ Progress : 14491 / 39001 
+ Progress : 14501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14511 / 39001 
+ Progress : 14521 / 39001 
+ Progress : 14531 / 39001 
+ Progress : 14541 / 39001 
+ Progress : 14551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14561 / 39001 
+ Progress : 14571 / 39001 
+ Progress : 14581 / 39001 
+ Progress : 14591 / 39001 
+ Progress : 14601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14611 / 39001 
+ Progress : 14621 / 39001 
+ Progress : 14631 / 39001 
+ Progress : 14641 / 39001 
+ Progress : 14651 / 39001 
+ Current minibatch Loss= 14.200058, Training Accuracy= 99.2%
+ Progress : 14661 / 39001 
+ Progress : 14671 / 39001 
+ Progress : 14681 / 39001 
+ Progress : 14691 / 39001 
+ Progress : 14701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14711 / 39001 
+ Progress : 14721 / 39001 
+ Progress : 14731 / 39001 
+ Progress : 14741 / 39001 
+ Progress : 14751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14761 / 39001 
+ Progress : 14771 / 39001 
+ Progress : 14781 / 39001 
+ Progress : 14791 / 39001 
+ Progress : 14801 / 39001 
+ Current minibatch Loss= 43.308632, Training Accuracy= 99.2%
+ Progress : 14811 / 39001 
+ Progress : 14821 / 39001 
+ Progress : 14831 / 39001 
+ Progress : 14841 / 39001 
+ Progress : 14851 / 39001 
+ Current minibatch Loss= 30.606873, Training Accuracy= 99.2%
+ Progress : 14861 / 39001 
+ Progress : 14871 / 39001 
+ Progress : 14881 / 39001 
+ Progress : 14891 / 39001 
+ Progress : 14901 / 39001 
+ Current minibatch Loss= 18.882034, Training Accuracy= 99.2%
+ Progress : 14911 / 39001 
+ Progress : 14921 / 39001 
+ Progress : 14931 / 39001 
+ Progress : 14941 / 39001 
+ Progress : 14951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 14961 / 39001 
+ Progress : 14971 / 39001 
+ Progress : 14981 / 39001 
+ Progress : 14991 / 39001 
+ Progress : 15001 / 39001 
+ Current minibatch Loss= 4.680134, Training Accuracy= 99.2%
+ Current testing data Loss= 83.571388, Training Accuracy= 98.7%
+Current highest : 98.8799989223%
+ Progress : 15011 / 39001 
+ Progress : 15021 / 39001 
+ Progress : 15031 / 39001 
+ Progress : 15041 / 39001 
+ Progress : 15051 / 39001 
+ Current minibatch Loss= 1.644089, Training Accuracy= 99.2%
+ Progress : 15061 / 39001 
+ Progress : 15071 / 39001 
+ Progress : 15081 / 39001 
+ Progress : 15091 / 39001 
+ Progress : 15101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15111 / 39001 
+ Progress : 15121 / 39001 
+ Progress : 15131 / 39001 
+ Progress : 15141 / 39001 
+ Progress : 15151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15161 / 39001 
+ Progress : 15171 / 39001 
+ Progress : 15181 / 39001 
+ Progress : 15191 / 39001 
+ Progress : 15201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15211 / 39001 
+ Progress : 15221 / 39001 
+ Progress : 15231 / 39001 
+ Progress : 15241 / 39001 
+ Progress : 15251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15261 / 39001 
+ Progress : 15271 / 39001 
+ Progress : 15281 / 39001 
+ Progress : 15291 / 39001 
+ Progress : 15301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15311 / 39001 
+ Progress : 15321 / 39001 
+ Progress : 15331 / 39001 
+ Progress : 15341 / 39001 
+ Progress : 15351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15361 / 39001 
+ Progress : 15371 / 39001 
+ Progress : 15381 / 39001 
+ Progress : 15391 / 39001 
+ Progress : 15401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15411 / 39001 
+ Progress : 15421 / 39001 
+ Progress : 15431 / 39001 
+ Progress : 15441 / 39001 
+ Progress : 15451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15461 / 39001 
+ Progress : 15471 / 39001 
+ Progress : 15481 / 39001 
+ Progress : 15491 / 39001 
+ Progress : 15501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15511 / 39001 
+ Progress : 15521 / 39001 
+ Progress : 15531 / 39001 
+ Progress : 15541 / 39001 
+ Progress : 15551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15561 / 39001 
+ Progress : 15571 / 39001 
+ Progress : 15581 / 39001 
+ Progress : 15591 / 39001 
+ Progress : 15601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15611 / 39001 
+ Progress : 15621 / 39001 
+ Progress : 15631 / 39001 
+ Progress : 15641 / 39001 
+ Progress : 15651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15661 / 39001 
+ Progress : 15671 / 39001 
+ Progress : 15681 / 39001 
+ Progress : 15691 / 39001 
+ Progress : 15701 / 39001 
+ Current minibatch Loss= 2.626595, Training Accuracy= 98.4%
+ Progress : 15711 / 39001 
+ Progress : 15721 / 39001 
+ Progress : 15731 / 39001 
+ Progress : 15741 / 39001 
+ Progress : 15751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15761 / 39001 
+ Progress : 15771 / 39001 
+ Progress : 15781 / 39001 
+ Progress : 15791 / 39001 
+ Progress : 15801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15811 / 39001 
+ Progress : 15821 / 39001 
+ Progress : 15831 / 39001 
+ Progress : 15841 / 39001 
+ Progress : 15851 / 39001 
+ Current minibatch Loss= 12.980301, Training Accuracy= 99.2%
+ Progress : 15861 / 39001 
+ Progress : 15871 / 39001 
+ Progress : 15881 / 39001 
+ Progress : 15891 / 39001 
+ Progress : 15901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 15911 / 39001 
+ Progress : 15921 / 39001 
+ Progress : 15931 / 39001 
+ Progress : 15941 / 39001 
+ Progress : 15951 / 39001 
+ Current minibatch Loss= 34.046768, Training Accuracy= 99.2%
+ Progress : 15961 / 39001 
+ Progress : 15971 / 39001 
+ Progress : 15981 / 39001 
+ Progress : 15991 / 39001 
+ Progress : 16001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 71.525734, Training Accuracy= 98.7%
+Current highest : 98.8799989223%
+ Progress : 16011 / 39001 
+ Progress : 16021 / 39001 
+ Progress : 16031 / 39001 
+ Progress : 16041 / 39001 
+ Progress : 16051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 16061 / 39001 
+ Progress : 16071 / 39001 
+ Progress : 16081 / 39001 
+ Progress : 16091 / 39001 
+ Progress : 16101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 16111 / 39001 
+ Progress : 16121 / 39001 
+ Progress : 16131 / 39001 
+ Progress : 16141 / 39001 
+ Progress : 16151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 16161 / 39001 
+ Progress : 16171 / 39001 
+ Progress : 16181 / 39001 
+ Progress : 16191 / 39001 
+ Progress : 16201 / 39001 
+ Current minibatch Loss= 13.192642, Training Accuracy= 99.2%
+ Progress : 16211 / 39001 
+ Progress : 16221 / 39001 
+ Progress : 16231 / 39001 
+ Progress : 16241 / 39001 
+ Progress : 16251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 16261 / 39001 
+ Progress : 16271 / 39001 
+ Progress : 16281 / 39001 
+ Progress : 16291 / 39001 
+ Progress : 16301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 16311 / 39001 
+ Progress : 16321 / 39001 
+ Progress : 16331 / 39001 
+ Progress : 16341 / 39001 
+ Progress : 16351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 16361 / 39001 
+ Progress : 16371 / 39001 
+ Progress : 16381 / 39001 
+ Progress : 16391 / 39001 
+ Progress : 16401 / 39001 
+ Current minibatch Loss= 18.996803, Training Accuracy= 98.4%
+ Progress : 16411 / 39001 
+ Progress : 16421 / 39001 
+ Progress : 16431 / 39001 
+ Progress : 16441 / 39001 
+ Progress : 16451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 16461 / 39001 
+ Progress : 16471 / 39001 
+ Progress : 16481 / 39001 
+ Progress : 16491 / 39001 
+ Progress : 16501 / 39001 
+ Current minibatch Loss= 0.426834, Training Accuracy= 99.2%
+ Progress : 16511 / 39001 
+ Progress : 16521 / 39001 
+ Progress : 16531 / 39001 
+ Progress : 16541 / 39001 
+ Progress : 16551 / 39001 
+ Current minibatch Loss= 9.980190, Training Accuracy= 99.2%
+ Progress : 16561 / 39001 
+ Progress : 16571 / 39001 
+ Progress : 16581 / 39001 
+ Progress : 16591 / 39001 
+ Progress : 16601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 16611 / 39001 
+ Progress : 16621 / 39001 
+ Progress : 16631 / 39001 
+ Progress : 16641 / 39001 
+ Progress : 16651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 16661 / 39001 
+ Progress : 16671 / 39001 
+ Progress : 16681 / 39001 
+ Progress : 16691 / 39001 
+ Progress : 16701 / 39001 
+ Current minibatch Loss= 2.254837, Training Accuracy= 99.2%
+ Progress : 16711 / 39001 
+ Progress : 16721 / 39001 
+ Progress : 16731 / 39001 
+ Progress : 16741 / 39001 
+ Progress : 16751 / 39001 
+ Current minibatch Loss= 0.215401, Training Accuracy= 99.2%
+ Progress : 16761 / 39001 
+ Progress : 16771 / 39001 
+ Progress : 16781 / 39001 
+ Progress : 16791 / 39001 
+ Progress : 16801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 16811 / 39001 
+ Progress : 16821 / 39001 
+ Progress : 16831 / 39001 
+ Progress : 16841 / 39001 
+ Progress : 16851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 16861 / 39001 
+ Progress : 16871 / 39001 
+ Progress : 16881 / 39001 
+ Progress : 16891 / 39001 
+ Progress : 16901 / 39001 
+ Current minibatch Loss= 0.944954, Training Accuracy= 99.2%
+ Progress : 16911 / 39001 
+ Progress : 16921 / 39001 
+ Progress : 16931 / 39001 
+ Progress : 16941 / 39001 
+ Progress : 16951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 16961 / 39001 
+ Progress : 16971 / 39001 
+ Progress : 16981 / 39001 
+ Progress : 16991 / 39001 
+ Progress : 17001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 62.478649, Training Accuracy= 98.8%
+Current highest : 98.8799989223%
+ Progress : 17011 / 39001 
+ Progress : 17021 / 39001 
+ Progress : 17031 / 39001 
+ Progress : 17041 / 39001 
+ Progress : 17051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17061 / 39001 
+ Progress : 17071 / 39001 
+ Progress : 17081 / 39001 
+ Progress : 17091 / 39001 
+ Progress : 17101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17111 / 39001 
+ Progress : 17121 / 39001 
+ Progress : 17131 / 39001 
+ Progress : 17141 / 39001 
+ Progress : 17151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17161 / 39001 
+ Progress : 17171 / 39001 
+ Progress : 17181 / 39001 
+ Progress : 17191 / 39001 
+ Progress : 17201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17211 / 39001 
+ Progress : 17221 / 39001 
+ Progress : 17231 / 39001 
+ Progress : 17241 / 39001 
+ Progress : 17251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17261 / 39001 
+ Progress : 17271 / 39001 
+ Progress : 17281 / 39001 
+ Progress : 17291 / 39001 
+ Progress : 17301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17311 / 39001 
+ Progress : 17321 / 39001 
+ Progress : 17331 / 39001 
+ Progress : 17341 / 39001 
+ Progress : 17351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17361 / 39001 
+ Progress : 17371 / 39001 
+ Progress : 17381 / 39001 
+ Progress : 17391 / 39001 
+ Progress : 17401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17411 / 39001 
+ Progress : 17421 / 39001 
+ Progress : 17431 / 39001 
+ Progress : 17441 / 39001 
+ Progress : 17451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17461 / 39001 
+ Progress : 17471 / 39001 
+ Progress : 17481 / 39001 
+ Progress : 17491 / 39001 
+ Progress : 17501 / 39001 
+ Current minibatch Loss= 4.557877, Training Accuracy= 99.2%
+ Progress : 17511 / 39001 
+ Progress : 17521 / 39001 
+ Progress : 17531 / 39001 
+ Progress : 17541 / 39001 
+ Progress : 17551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17561 / 39001 
+ Progress : 17571 / 39001 
+ Progress : 17581 / 39001 
+ Progress : 17591 / 39001 
+ Progress : 17601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17611 / 39001 
+ Progress : 17621 / 39001 
+ Progress : 17631 / 39001 
+ Progress : 17641 / 39001 
+ Progress : 17651 / 39001 
+ Current minibatch Loss= 5.646156, Training Accuracy= 99.2%
+ Progress : 17661 / 39001 
+ Progress : 17671 / 39001 
+ Progress : 17681 / 39001 
+ Progress : 17691 / 39001 
+ Progress : 17701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17711 / 39001 
+ Progress : 17721 / 39001 
+ Progress : 17731 / 39001 
+ Progress : 17741 / 39001 
+ Progress : 17751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17761 / 39001 
+ Progress : 17771 / 39001 
+ Progress : 17781 / 39001 
+ Progress : 17791 / 39001 
+ Progress : 17801 / 39001 
+ Current minibatch Loss= 22.296711, Training Accuracy= 99.2%
+ Progress : 17811 / 39001 
+ Progress : 17821 / 39001 
+ Progress : 17831 / 39001 
+ Progress : 17841 / 39001 
+ Progress : 17851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17861 / 39001 
+ Progress : 17871 / 39001 
+ Progress : 17881 / 39001 
+ Progress : 17891 / 39001 
+ Progress : 17901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17911 / 39001 
+ Progress : 17921 / 39001 
+ Progress : 17931 / 39001 
+ Progress : 17941 / 39001 
+ Progress : 17951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 17961 / 39001 
+ Progress : 17971 / 39001 
+ Progress : 17981 / 39001 
+ Progress : 17991 / 39001 
+ Progress : 18001 / 39001 
+ Current minibatch Loss= 15.257019, Training Accuracy= 99.2%
+ Current testing data Loss= 60.941624, Training Accuracy= 98.8%
+Current highest : 98.8799989223%
+ Progress : 18011 / 39001 
+ Progress : 18021 / 39001 
+ Progress : 18031 / 39001 
+ Progress : 18041 / 39001 
+ Progress : 18051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18061 / 39001 
+ Progress : 18071 / 39001 
+ Progress : 18081 / 39001 
+ Progress : 18091 / 39001 
+ Progress : 18101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18111 / 39001 
+ Progress : 18121 / 39001 
+ Progress : 18131 / 39001 
+ Progress : 18141 / 39001 
+ Progress : 18151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18161 / 39001 
+ Progress : 18171 / 39001 
+ Progress : 18181 / 39001 
+ Progress : 18191 / 39001 
+ Progress : 18201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18211 / 39001 
+ Progress : 18221 / 39001 
+ Progress : 18231 / 39001 
+ Progress : 18241 / 39001 
+ Progress : 18251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18261 / 39001 
+ Progress : 18271 / 39001 
+ Progress : 18281 / 39001 
+ Progress : 18291 / 39001 
+ Progress : 18301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18311 / 39001 
+ Progress : 18321 / 39001 
+ Progress : 18331 / 39001 
+ Progress : 18341 / 39001 
+ Progress : 18351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18361 / 39001 
+ Progress : 18371 / 39001 
+ Progress : 18381 / 39001 
+ Progress : 18391 / 39001 
+ Progress : 18401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18411 / 39001 
+ Progress : 18421 / 39001 
+ Progress : 18431 / 39001 
+ Progress : 18441 / 39001 
+ Progress : 18451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18461 / 39001 
+ Progress : 18471 / 39001 
+ Progress : 18481 / 39001 
+ Progress : 18491 / 39001 
+ Progress : 18501 / 39001 
+ Current minibatch Loss= 19.675873, Training Accuracy= 99.2%
+ Progress : 18511 / 39001 
+ Progress : 18521 / 39001 
+ Progress : 18531 / 39001 
+ Progress : 18541 / 39001 
+ Progress : 18551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18561 / 39001 
+ Progress : 18571 / 39001 
+ Progress : 18581 / 39001 
+ Progress : 18591 / 39001 
+ Progress : 18601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18611 / 39001 
+ Progress : 18621 / 39001 
+ Progress : 18631 / 39001 
+ Progress : 18641 / 39001 
+ Progress : 18651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18661 / 39001 
+ Progress : 18671 / 39001 
+ Progress : 18681 / 39001 
+ Progress : 18691 / 39001 
+ Progress : 18701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18711 / 39001 
+ Progress : 18721 / 39001 
+ Progress : 18731 / 39001 
+ Progress : 18741 / 39001 
+ Progress : 18751 / 39001 
+ Current minibatch Loss= 2.976761, Training Accuracy= 99.2%
+ Progress : 18761 / 39001 
+ Progress : 18771 / 39001 
+ Progress : 18781 / 39001 
+ Progress : 18791 / 39001 
+ Progress : 18801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18811 / 39001 
+ Progress : 18821 / 39001 
+ Progress : 18831 / 39001 
+ Progress : 18841 / 39001 
+ Progress : 18851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18861 / 39001 
+ Progress : 18871 / 39001 
+ Progress : 18881 / 39001 
+ Progress : 18891 / 39001 
+ Progress : 18901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18911 / 39001 
+ Progress : 18921 / 39001 
+ Progress : 18931 / 39001 
+ Progress : 18941 / 39001 
+ Progress : 18951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 18961 / 39001 
+ Progress : 18971 / 39001 
+ Progress : 18981 / 39001 
+ Progress : 18991 / 39001 
+ Progress : 19001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 67.686150, Training Accuracy= 98.7%
+Current highest : 98.8799989223%
+ Progress : 19011 / 39001 
+ Progress : 19021 / 39001 
+ Progress : 19031 / 39001 
+ Progress : 19041 / 39001 
+ Progress : 19051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19061 / 39001 
+ Progress : 19071 / 39001 
+ Progress : 19081 / 39001 
+ Progress : 19091 / 39001 
+ Progress : 19101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19111 / 39001 
+ Progress : 19121 / 39001 
+ Progress : 19131 / 39001 
+ Progress : 19141 / 39001 
+ Progress : 19151 / 39001 
+ Current minibatch Loss= 7.820969, Training Accuracy= 99.2%
+ Progress : 19161 / 39001 
+ Progress : 19171 / 39001 
+ Progress : 19181 / 39001 
+ Progress : 19191 / 39001 
+ Progress : 19201 / 39001 
+ Current minibatch Loss= 3.832413, Training Accuracy= 99.2%
+ Progress : 19211 / 39001 
+ Progress : 19221 / 39001 
+ Progress : 19231 / 39001 
+ Progress : 19241 / 39001 
+ Progress : 19251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19261 / 39001 
+ Progress : 19271 / 39001 
+ Progress : 19281 / 39001 
+ Progress : 19291 / 39001 
+ Progress : 19301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19311 / 39001 
+ Progress : 19321 / 39001 
+ Progress : 19331 / 39001 
+ Progress : 19341 / 39001 
+ Progress : 19351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19361 / 39001 
+ Progress : 19371 / 39001 
+ Progress : 19381 / 39001 
+ Progress : 19391 / 39001 
+ Progress : 19401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19411 / 39001 
+ Progress : 19421 / 39001 
+ Progress : 19431 / 39001 
+ Progress : 19441 / 39001 
+ Progress : 19451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19461 / 39001 
+ Progress : 19471 / 39001 
+ Progress : 19481 / 39001 
+ Progress : 19491 / 39001 
+ Progress : 19501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19511 / 39001 
+ Progress : 19521 / 39001 
+ Progress : 19531 / 39001 
+ Progress : 19541 / 39001 
+ Progress : 19551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19561 / 39001 
+ Progress : 19571 / 39001 
+ Progress : 19581 / 39001 
+ Progress : 19591 / 39001 
+ Progress : 19601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19611 / 39001 
+ Progress : 19621 / 39001 
+ Progress : 19631 / 39001 
+ Progress : 19641 / 39001 
+ Progress : 19651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19661 / 39001 
+ Progress : 19671 / 39001 
+ Progress : 19681 / 39001 
+ Progress : 19691 / 39001 
+ Progress : 19701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19711 / 39001 
+ Progress : 19721 / 39001 
+ Progress : 19731 / 39001 
+ Progress : 19741 / 39001 
+ Progress : 19751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19761 / 39001 
+ Progress : 19771 / 39001 
+ Progress : 19781 / 39001 
+ Progress : 19791 / 39001 
+ Progress : 19801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19811 / 39001 
+ Progress : 19821 / 39001 
+ Progress : 19831 / 39001 
+ Progress : 19841 / 39001 
+ Progress : 19851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19861 / 39001 
+ Progress : 19871 / 39001 
+ Progress : 19881 / 39001 
+ Progress : 19891 / 39001 
+ Progress : 19901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19911 / 39001 
+ Progress : 19921 / 39001 
+ Progress : 19931 / 39001 
+ Progress : 19941 / 39001 
+ Progress : 19951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 19961 / 39001 
+ Progress : 19971 / 39001 
+ Progress : 19981 / 39001 
+ Progress : 19991 / 39001 
+ Progress : 20001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 59.154682, Training Accuracy= 98.8%
+Current highest : 98.8799989223%
+ Progress : 20011 / 39001 
+ Progress : 20021 / 39001 
+ Progress : 20031 / 39001 
+ Progress : 20041 / 39001 
+ Progress : 20051 / 39001 
+ Current minibatch Loss= 0.168556, Training Accuracy= 99.2%
+ Progress : 20061 / 39001 
+ Progress : 20071 / 39001 
+ Progress : 20081 / 39001 
+ Progress : 20091 / 39001 
+ Progress : 20101 / 39001 
+ Current minibatch Loss= 0.364727, Training Accuracy= 99.2%
+ Progress : 20111 / 39001 
+ Progress : 20121 / 39001 
+ Progress : 20131 / 39001 
+ Progress : 20141 / 39001 
+ Progress : 20151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20161 / 39001 
+ Progress : 20171 / 39001 
+ Progress : 20181 / 39001 
+ Progress : 20191 / 39001 
+ Progress : 20201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20211 / 39001 
+ Progress : 20221 / 39001 
+ Progress : 20231 / 39001 
+ Progress : 20241 / 39001 
+ Progress : 20251 / 39001 
+ Current minibatch Loss= 0.353279, Training Accuracy= 99.2%
+ Progress : 20261 / 39001 
+ Progress : 20271 / 39001 
+ Progress : 20281 / 39001 
+ Progress : 20291 / 39001 
+ Progress : 20301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20311 / 39001 
+ Progress : 20321 / 39001 
+ Progress : 20331 / 39001 
+ Progress : 20341 / 39001 
+ Progress : 20351 / 39001 
+ Current minibatch Loss= 18.916840, Training Accuracy= 98.4%
+ Progress : 20361 / 39001 
+ Progress : 20371 / 39001 
+ Progress : 20381 / 39001 
+ Progress : 20391 / 39001 
+ Progress : 20401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20411 / 39001 
+ Progress : 20421 / 39001 
+ Progress : 20431 / 39001 
+ Progress : 20441 / 39001 
+ Progress : 20451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20461 / 39001 
+ Progress : 20471 / 39001 
+ Progress : 20481 / 39001 
+ Progress : 20491 / 39001 
+ Progress : 20501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20511 / 39001 
+ Progress : 20521 / 39001 
+ Progress : 20531 / 39001 
+ Progress : 20541 / 39001 
+ Progress : 20551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20561 / 39001 
+ Progress : 20571 / 39001 
+ Progress : 20581 / 39001 
+ Progress : 20591 / 39001 
+ Progress : 20601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20611 / 39001 
+ Progress : 20621 / 39001 
+ Progress : 20631 / 39001 
+ Progress : 20641 / 39001 
+ Progress : 20651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20661 / 39001 
+ Progress : 20671 / 39001 
+ Progress : 20681 / 39001 
+ Progress : 20691 / 39001 
+ Progress : 20701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20711 / 39001 
+ Progress : 20721 / 39001 
+ Progress : 20731 / 39001 
+ Progress : 20741 / 39001 
+ Progress : 20751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20761 / 39001 
+ Progress : 20771 / 39001 
+ Progress : 20781 / 39001 
+ Progress : 20791 / 39001 
+ Progress : 20801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20811 / 39001 
+ Progress : 20821 / 39001 
+ Progress : 20831 / 39001 
+ Progress : 20841 / 39001 
+ Progress : 20851 / 39001 
+ Current minibatch Loss= 19.840378, Training Accuracy= 99.2%
+ Progress : 20861 / 39001 
+ Progress : 20871 / 39001 
+ Progress : 20881 / 39001 
+ Progress : 20891 / 39001 
+ Progress : 20901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20911 / 39001 
+ Progress : 20921 / 39001 
+ Progress : 20931 / 39001 
+ Progress : 20941 / 39001 
+ Progress : 20951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 20961 / 39001 
+ Progress : 20971 / 39001 
+ Progress : 20981 / 39001 
+ Progress : 20991 / 39001 
+ Progress : 21001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 56.209175, Training Accuracy= 98.9%
+ New highest probabilty : 98.9499986172%
+ Model saved in file: ./model_cnn-i21000-b128-a98.9499986172/model.ckpt
+Current highest : 98.9499986172%
+ Progress : 21011 / 39001 
+ Progress : 21021 / 39001 
+ Progress : 21031 / 39001 
+ Progress : 21041 / 39001 
+ Progress : 21051 / 39001 
+ Current minibatch Loss= 6.578880, Training Accuracy= 99.2%
+ Progress : 21061 / 39001 
+ Progress : 21071 / 39001 
+ Progress : 21081 / 39001 
+ Progress : 21091 / 39001 
+ Progress : 21101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21111 / 39001 
+ Progress : 21121 / 39001 
+ Progress : 21131 / 39001 
+ Progress : 21141 / 39001 
+ Progress : 21151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21161 / 39001 
+ Progress : 21171 / 39001 
+ Progress : 21181 / 39001 
+ Progress : 21191 / 39001 
+ Progress : 21201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21211 / 39001 
+ Progress : 21221 / 39001 
+ Progress : 21231 / 39001 
+ Progress : 21241 / 39001 
+ Progress : 21251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21261 / 39001 
+ Progress : 21271 / 39001 
+ Progress : 21281 / 39001 
+ Progress : 21291 / 39001 
+ Progress : 21301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21311 / 39001 
+ Progress : 21321 / 39001 
+ Progress : 21331 / 39001 
+ Progress : 21341 / 39001 
+ Progress : 21351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21361 / 39001 
+ Progress : 21371 / 39001 
+ Progress : 21381 / 39001 
+ Progress : 21391 / 39001 
+ Progress : 21401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21411 / 39001 
+ Progress : 21421 / 39001 
+ Progress : 21431 / 39001 
+ Progress : 21441 / 39001 
+ Progress : 21451 / 39001 
+ Current minibatch Loss= 0.395523, Training Accuracy= 99.2%
+ Progress : 21461 / 39001 
+ Progress : 21471 / 39001 
+ Progress : 21481 / 39001 
+ Progress : 21491 / 39001 
+ Progress : 21501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21511 / 39001 
+ Progress : 21521 / 39001 
+ Progress : 21531 / 39001 
+ Progress : 21541 / 39001 
+ Progress : 21551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21561 / 39001 
+ Progress : 21571 / 39001 
+ Progress : 21581 / 39001 
+ Progress : 21591 / 39001 
+ Progress : 21601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21611 / 39001 
+ Progress : 21621 / 39001 
+ Progress : 21631 / 39001 
+ Progress : 21641 / 39001 
+ Progress : 21651 / 39001 
+ Current minibatch Loss= 10.181381, Training Accuracy= 99.2%
+ Progress : 21661 / 39001 
+ Progress : 21671 / 39001 
+ Progress : 21681 / 39001 
+ Progress : 21691 / 39001 
+ Progress : 21701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21711 / 39001 
+ Progress : 21721 / 39001 
+ Progress : 21731 / 39001 
+ Progress : 21741 / 39001 
+ Progress : 21751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21761 / 39001 
+ Progress : 21771 / 39001 
+ Progress : 21781 / 39001 
+ Progress : 21791 / 39001 
+ Progress : 21801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21811 / 39001 
+ Progress : 21821 / 39001 
+ Progress : 21831 / 39001 
+ Progress : 21841 / 39001 
+ Progress : 21851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21861 / 39001 
+ Progress : 21871 / 39001 
+ Progress : 21881 / 39001 
+ Progress : 21891 / 39001 
+ Progress : 21901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21911 / 39001 
+ Progress : 21921 / 39001 
+ Progress : 21931 / 39001 
+ Progress : 21941 / 39001 
+ Progress : 21951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 21961 / 39001 
+ Progress : 21971 / 39001 
+ Progress : 21981 / 39001 
+ Progress : 21991 / 39001 
+ Progress : 22001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 53.170799, Training Accuracy= 99.0%
+ New highest probabilty : 99.0400016308%
+ Model saved in file: ./model_cnn-i22000-b128-a99.0400016308/model.ckpt
+Current highest : 99.0400016308%
+ Progress : 22011 / 39001 
+ Progress : 22021 / 39001 
+ Progress : 22031 / 39001 
+ Progress : 22041 / 39001 
+ Progress : 22051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22061 / 39001 
+ Progress : 22071 / 39001 
+ Progress : 22081 / 39001 
+ Progress : 22091 / 39001 
+ Progress : 22101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22111 / 39001 
+ Progress : 22121 / 39001 
+ Progress : 22131 / 39001 
+ Progress : 22141 / 39001 
+ Progress : 22151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22161 / 39001 
+ Progress : 22171 / 39001 
+ Progress : 22181 / 39001 
+ Progress : 22191 / 39001 
+ Progress : 22201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22211 / 39001 
+ Progress : 22221 / 39001 
+ Progress : 22231 / 39001 
+ Progress : 22241 / 39001 
+ Progress : 22251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22261 / 39001 
+ Progress : 22271 / 39001 
+ Progress : 22281 / 39001 
+ Progress : 22291 / 39001 
+ Progress : 22301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22311 / 39001 
+ Progress : 22321 / 39001 
+ Progress : 22331 / 39001 
+ Progress : 22341 / 39001 
+ Progress : 22351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22361 / 39001 
+ Progress : 22371 / 39001 
+ Progress : 22381 / 39001 
+ Progress : 22391 / 39001 
+ Progress : 22401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22411 / 39001 
+ Progress : 22421 / 39001 
+ Progress : 22431 / 39001 
+ Progress : 22441 / 39001 
+ Progress : 22451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22461 / 39001 
+ Progress : 22471 / 39001 
+ Progress : 22481 / 39001 
+ Progress : 22491 / 39001 
+ Progress : 22501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22511 / 39001 
+ Progress : 22521 / 39001 
+ Progress : 22531 / 39001 
+ Progress : 22541 / 39001 
+ Progress : 22551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22561 / 39001 
+ Progress : 22571 / 39001 
+ Progress : 22581 / 39001 
+ Progress : 22591 / 39001 
+ Progress : 22601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22611 / 39001 
+ Progress : 22621 / 39001 
+ Progress : 22631 / 39001 
+ Progress : 22641 / 39001 
+ Progress : 22651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22661 / 39001 
+ Progress : 22671 / 39001 
+ Progress : 22681 / 39001 
+ Progress : 22691 / 39001 
+ Progress : 22701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22711 / 39001 
+ Progress : 22721 / 39001 
+ Progress : 22731 / 39001 
+ Progress : 22741 / 39001 
+ Progress : 22751 / 39001 
+ Current minibatch Loss= 2.935844, Training Accuracy= 99.2%
+ Progress : 22761 / 39001 
+ Progress : 22771 / 39001 
+ Progress : 22781 / 39001 
+ Progress : 22791 / 39001 
+ Progress : 22801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22811 / 39001 
+ Progress : 22821 / 39001 
+ Progress : 22831 / 39001 
+ Progress : 22841 / 39001 
+ Progress : 22851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22861 / 39001 
+ Progress : 22871 / 39001 
+ Progress : 22881 / 39001 
+ Progress : 22891 / 39001 
+ Progress : 22901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22911 / 39001 
+ Progress : 22921 / 39001 
+ Progress : 22931 / 39001 
+ Progress : 22941 / 39001 
+ Progress : 22951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 22961 / 39001 
+ Progress : 22971 / 39001 
+ Progress : 22981 / 39001 
+ Progress : 22991 / 39001 
+ Progress : 23001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 49.352882, Training Accuracy= 99.0%
+Current highest : 99.0400016308%
+ Progress : 23011 / 39001 
+ Progress : 23021 / 39001 
+ Progress : 23031 / 39001 
+ Progress : 23041 / 39001 
+ Progress : 23051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23061 / 39001 
+ Progress : 23071 / 39001 
+ Progress : 23081 / 39001 
+ Progress : 23091 / 39001 
+ Progress : 23101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23111 / 39001 
+ Progress : 23121 / 39001 
+ Progress : 23131 / 39001 
+ Progress : 23141 / 39001 
+ Progress : 23151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23161 / 39001 
+ Progress : 23171 / 39001 
+ Progress : 23181 / 39001 
+ Progress : 23191 / 39001 
+ Progress : 23201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23211 / 39001 
+ Progress : 23221 / 39001 
+ Progress : 23231 / 39001 
+ Progress : 23241 / 39001 
+ Progress : 23251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23261 / 39001 
+ Progress : 23271 / 39001 
+ Progress : 23281 / 39001 
+ Progress : 23291 / 39001 
+ Progress : 23301 / 39001 
+ Current minibatch Loss= 4.314072, Training Accuracy= 99.2%
+ Progress : 23311 / 39001 
+ Progress : 23321 / 39001 
+ Progress : 23331 / 39001 
+ Progress : 23341 / 39001 
+ Progress : 23351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23361 / 39001 
+ Progress : 23371 / 39001 
+ Progress : 23381 / 39001 
+ Progress : 23391 / 39001 
+ Progress : 23401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23411 / 39001 
+ Progress : 23421 / 39001 
+ Progress : 23431 / 39001 
+ Progress : 23441 / 39001 
+ Progress : 23451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23461 / 39001 
+ Progress : 23471 / 39001 
+ Progress : 23481 / 39001 
+ Progress : 23491 / 39001 
+ Progress : 23501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23511 / 39001 
+ Progress : 23521 / 39001 
+ Progress : 23531 / 39001 
+ Progress : 23541 / 39001 
+ Progress : 23551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23561 / 39001 
+ Progress : 23571 / 39001 
+ Progress : 23581 / 39001 
+ Progress : 23591 / 39001 
+ Progress : 23601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23611 / 39001 
+ Progress : 23621 / 39001 
+ Progress : 23631 / 39001 
+ Progress : 23641 / 39001 
+ Progress : 23651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23661 / 39001 
+ Progress : 23671 / 39001 
+ Progress : 23681 / 39001 
+ Progress : 23691 / 39001 
+ Progress : 23701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23711 / 39001 
+ Progress : 23721 / 39001 
+ Progress : 23731 / 39001 
+ Progress : 23741 / 39001 
+ Progress : 23751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23761 / 39001 
+ Progress : 23771 / 39001 
+ Progress : 23781 / 39001 
+ Progress : 23791 / 39001 
+ Progress : 23801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23811 / 39001 
+ Progress : 23821 / 39001 
+ Progress : 23831 / 39001 
+ Progress : 23841 / 39001 
+ Progress : 23851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23861 / 39001 
+ Progress : 23871 / 39001 
+ Progress : 23881 / 39001 
+ Progress : 23891 / 39001 
+ Progress : 23901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 23911 / 39001 
+ Progress : 23921 / 39001 
+ Progress : 23931 / 39001 
+ Progress : 23941 / 39001 
+ Progress : 23951 / 39001 
+ Current minibatch Loss= 6.120193, Training Accuracy= 99.2%
+ Progress : 23961 / 39001 
+ Progress : 23971 / 39001 
+ Progress : 23981 / 39001 
+ Progress : 23991 / 39001 
+ Progress : 24001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 49.822338, Training Accuracy= 98.9%
+Current highest : 99.0400016308%
+ Progress : 24011 / 39001 
+ Progress : 24021 / 39001 
+ Progress : 24031 / 39001 
+ Progress : 24041 / 39001 
+ Progress : 24051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24061 / 39001 
+ Progress : 24071 / 39001 
+ Progress : 24081 / 39001 
+ Progress : 24091 / 39001 
+ Progress : 24101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24111 / 39001 
+ Progress : 24121 / 39001 
+ Progress : 24131 / 39001 
+ Progress : 24141 / 39001 
+ Progress : 24151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24161 / 39001 
+ Progress : 24171 / 39001 
+ Progress : 24181 / 39001 
+ Progress : 24191 / 39001 
+ Progress : 24201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24211 / 39001 
+ Progress : 24221 / 39001 
+ Progress : 24231 / 39001 
+ Progress : 24241 / 39001 
+ Progress : 24251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24261 / 39001 
+ Progress : 24271 / 39001 
+ Progress : 24281 / 39001 
+ Progress : 24291 / 39001 
+ Progress : 24301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24311 / 39001 
+ Progress : 24321 / 39001 
+ Progress : 24331 / 39001 
+ Progress : 24341 / 39001 
+ Progress : 24351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24361 / 39001 
+ Progress : 24371 / 39001 
+ Progress : 24381 / 39001 
+ Progress : 24391 / 39001 
+ Progress : 24401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24411 / 39001 
+ Progress : 24421 / 39001 
+ Progress : 24431 / 39001 
+ Progress : 24441 / 39001 
+ Progress : 24451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24461 / 39001 
+ Progress : 24471 / 39001 
+ Progress : 24481 / 39001 
+ Progress : 24491 / 39001 
+ Progress : 24501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24511 / 39001 
+ Progress : 24521 / 39001 
+ Progress : 24531 / 39001 
+ Progress : 24541 / 39001 
+ Progress : 24551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24561 / 39001 
+ Progress : 24571 / 39001 
+ Progress : 24581 / 39001 
+ Progress : 24591 / 39001 
+ Progress : 24601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24611 / 39001 
+ Progress : 24621 / 39001 
+ Progress : 24631 / 39001 
+ Progress : 24641 / 39001 
+ Progress : 24651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24661 / 39001 
+ Progress : 24671 / 39001 
+ Progress : 24681 / 39001 
+ Progress : 24691 / 39001 
+ Progress : 24701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24711 / 39001 
+ Progress : 24721 / 39001 
+ Progress : 24731 / 39001 
+ Progress : 24741 / 39001 
+ Progress : 24751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24761 / 39001 
+ Progress : 24771 / 39001 
+ Progress : 24781 / 39001 
+ Progress : 24791 / 39001 
+ Progress : 24801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24811 / 39001 
+ Progress : 24821 / 39001 
+ Progress : 24831 / 39001 
+ Progress : 24841 / 39001 
+ Progress : 24851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24861 / 39001 
+ Progress : 24871 / 39001 
+ Progress : 24881 / 39001 
+ Progress : 24891 / 39001 
+ Progress : 24901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24911 / 39001 
+ Progress : 24921 / 39001 
+ Progress : 24931 / 39001 
+ Progress : 24941 / 39001 
+ Progress : 24951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 24961 / 39001 
+ Progress : 24971 / 39001 
+ Progress : 24981 / 39001 
+ Progress : 24991 / 39001 
+ Progress : 25001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 52.333321, Training Accuracy= 98.8%
+Current highest : 99.0400016308%
+ Progress : 25011 / 39001 
+ Progress : 25021 / 39001 
+ Progress : 25031 / 39001 
+ Progress : 25041 / 39001 
+ Progress : 25051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25061 / 39001 
+ Progress : 25071 / 39001 
+ Progress : 25081 / 39001 
+ Progress : 25091 / 39001 
+ Progress : 25101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25111 / 39001 
+ Progress : 25121 / 39001 
+ Progress : 25131 / 39001 
+ Progress : 25141 / 39001 
+ Progress : 25151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25161 / 39001 
+ Progress : 25171 / 39001 
+ Progress : 25181 / 39001 
+ Progress : 25191 / 39001 
+ Progress : 25201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25211 / 39001 
+ Progress : 25221 / 39001 
+ Progress : 25231 / 39001 
+ Progress : 25241 / 39001 
+ Progress : 25251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25261 / 39001 
+ Progress : 25271 / 39001 
+ Progress : 25281 / 39001 
+ Progress : 25291 / 39001 
+ Progress : 25301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25311 / 39001 
+ Progress : 25321 / 39001 
+ Progress : 25331 / 39001 
+ Progress : 25341 / 39001 
+ Progress : 25351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25361 / 39001 
+ Progress : 25371 / 39001 
+ Progress : 25381 / 39001 
+ Progress : 25391 / 39001 
+ Progress : 25401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25411 / 39001 
+ Progress : 25421 / 39001 
+ Progress : 25431 / 39001 
+ Progress : 25441 / 39001 
+ Progress : 25451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25461 / 39001 
+ Progress : 25471 / 39001 
+ Progress : 25481 / 39001 
+ Progress : 25491 / 39001 
+ Progress : 25501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25511 / 39001 
+ Progress : 25521 / 39001 
+ Progress : 25531 / 39001 
+ Progress : 25541 / 39001 
+ Progress : 25551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25561 / 39001 
+ Progress : 25571 / 39001 
+ Progress : 25581 / 39001 
+ Progress : 25591 / 39001 
+ Progress : 25601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25611 / 39001 
+ Progress : 25621 / 39001 
+ Progress : 25631 / 39001 
+ Progress : 25641 / 39001 
+ Progress : 25651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25661 / 39001 
+ Progress : 25671 / 39001 
+ Progress : 25681 / 39001 
+ Progress : 25691 / 39001 
+ Progress : 25701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25711 / 39001 
+ Progress : 25721 / 39001 
+ Progress : 25731 / 39001 
+ Progress : 25741 / 39001 
+ Progress : 25751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25761 / 39001 
+ Progress : 25771 / 39001 
+ Progress : 25781 / 39001 
+ Progress : 25791 / 39001 
+ Progress : 25801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25811 / 39001 
+ Progress : 25821 / 39001 
+ Progress : 25831 / 39001 
+ Progress : 25841 / 39001 
+ Progress : 25851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25861 / 39001 
+ Progress : 25871 / 39001 
+ Progress : 25881 / 39001 
+ Progress : 25891 / 39001 
+ Progress : 25901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25911 / 39001 
+ Progress : 25921 / 39001 
+ Progress : 25931 / 39001 
+ Progress : 25941 / 39001 
+ Progress : 25951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 25961 / 39001 
+ Progress : 25971 / 39001 
+ Progress : 25981 / 39001 
+ Progress : 25991 / 39001 
+ Progress : 26001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 47.730232, Training Accuracy= 99.0%
+ New highest probabilty : 99.0499973297%
+ Model saved in file: ./model_cnn-i26000-b128-a99.0499973297/model.ckpt
+Current highest : 99.0499973297%
+ Progress : 26011 / 39001 
+ Progress : 26021 / 39001 
+ Progress : 26031 / 39001 
+ Progress : 26041 / 39001 
+ Progress : 26051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26061 / 39001 
+ Progress : 26071 / 39001 
+ Progress : 26081 / 39001 
+ Progress : 26091 / 39001 
+ Progress : 26101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26111 / 39001 
+ Progress : 26121 / 39001 
+ Progress : 26131 / 39001 
+ Progress : 26141 / 39001 
+ Progress : 26151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26161 / 39001 
+ Progress : 26171 / 39001 
+ Progress : 26181 / 39001 
+ Progress : 26191 / 39001 
+ Progress : 26201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26211 / 39001 
+ Progress : 26221 / 39001 
+ Progress : 26231 / 39001 
+ Progress : 26241 / 39001 
+ Progress : 26251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26261 / 39001 
+ Progress : 26271 / 39001 
+ Progress : 26281 / 39001 
+ Progress : 26291 / 39001 
+ Progress : 26301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26311 / 39001 
+ Progress : 26321 / 39001 
+ Progress : 26331 / 39001 
+ Progress : 26341 / 39001 
+ Progress : 26351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26361 / 39001 
+ Progress : 26371 / 39001 
+ Progress : 26381 / 39001 
+ Progress : 26391 / 39001 
+ Progress : 26401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26411 / 39001 
+ Progress : 26421 / 39001 
+ Progress : 26431 / 39001 
+ Progress : 26441 / 39001 
+ Progress : 26451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26461 / 39001 
+ Progress : 26471 / 39001 
+ Progress : 26481 / 39001 
+ Progress : 26491 / 39001 
+ Progress : 26501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26511 / 39001 
+ Progress : 26521 / 39001 
+ Progress : 26531 / 39001 
+ Progress : 26541 / 39001 
+ Progress : 26551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26561 / 39001 
+ Progress : 26571 / 39001 
+ Progress : 26581 / 39001 
+ Progress : 26591 / 39001 
+ Progress : 26601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26611 / 39001 
+ Progress : 26621 / 39001 
+ Progress : 26631 / 39001 
+ Progress : 26641 / 39001 
+ Progress : 26651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26661 / 39001 
+ Progress : 26671 / 39001 
+ Progress : 26681 / 39001 
+ Progress : 26691 / 39001 
+ Progress : 26701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26711 / 39001 
+ Progress : 26721 / 39001 
+ Progress : 26731 / 39001 
+ Progress : 26741 / 39001 
+ Progress : 26751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26761 / 39001 
+ Progress : 26771 / 39001 
+ Progress : 26781 / 39001 
+ Progress : 26791 / 39001 
+ Progress : 26801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26811 / 39001 
+ Progress : 26821 / 39001 
+ Progress : 26831 / 39001 
+ Progress : 26841 / 39001 
+ Progress : 26851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26861 / 39001 
+ Progress : 26871 / 39001 
+ Progress : 26881 / 39001 
+ Progress : 26891 / 39001 
+ Progress : 26901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26911 / 39001 
+ Progress : 26921 / 39001 
+ Progress : 26931 / 39001 
+ Progress : 26941 / 39001 
+ Progress : 26951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 26961 / 39001 
+ Progress : 26971 / 39001 
+ Progress : 26981 / 39001 
+ Progress : 26991 / 39001 
+ Progress : 27001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 54.599400, Training Accuracy= 98.9%
+Current highest : 99.0499973297%
+ Progress : 27011 / 39001 
+ Progress : 27021 / 39001 
+ Progress : 27031 / 39001 
+ Progress : 27041 / 39001 
+ Progress : 27051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27061 / 39001 
+ Progress : 27071 / 39001 
+ Progress : 27081 / 39001 
+ Progress : 27091 / 39001 
+ Progress : 27101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27111 / 39001 
+ Progress : 27121 / 39001 
+ Progress : 27131 / 39001 
+ Progress : 27141 / 39001 
+ Progress : 27151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27161 / 39001 
+ Progress : 27171 / 39001 
+ Progress : 27181 / 39001 
+ Progress : 27191 / 39001 
+ Progress : 27201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27211 / 39001 
+ Progress : 27221 / 39001 
+ Progress : 27231 / 39001 
+ Progress : 27241 / 39001 
+ Progress : 27251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27261 / 39001 
+ Progress : 27271 / 39001 
+ Progress : 27281 / 39001 
+ Progress : 27291 / 39001 
+ Progress : 27301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27311 / 39001 
+ Progress : 27321 / 39001 
+ Progress : 27331 / 39001 
+ Progress : 27341 / 39001 
+ Progress : 27351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27361 / 39001 
+ Progress : 27371 / 39001 
+ Progress : 27381 / 39001 
+ Progress : 27391 / 39001 
+ Progress : 27401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27411 / 39001 
+ Progress : 27421 / 39001 
+ Progress : 27431 / 39001 
+ Progress : 27441 / 39001 
+ Progress : 27451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27461 / 39001 
+ Progress : 27471 / 39001 
+ Progress : 27481 / 39001 
+ Progress : 27491 / 39001 
+ Progress : 27501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27511 / 39001 
+ Progress : 27521 / 39001 
+ Progress : 27531 / 39001 
+ Progress : 27541 / 39001 
+ Progress : 27551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27561 / 39001 
+ Progress : 27571 / 39001 
+ Progress : 27581 / 39001 
+ Progress : 27591 / 39001 
+ Progress : 27601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27611 / 39001 
+ Progress : 27621 / 39001 
+ Progress : 27631 / 39001 
+ Progress : 27641 / 39001 
+ Progress : 27651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27661 / 39001 
+ Progress : 27671 / 39001 
+ Progress : 27681 / 39001 
+ Progress : 27691 / 39001 
+ Progress : 27701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27711 / 39001 
+ Progress : 27721 / 39001 
+ Progress : 27731 / 39001 
+ Progress : 27741 / 39001 
+ Progress : 27751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27761 / 39001 
+ Progress : 27771 / 39001 
+ Progress : 27781 / 39001 
+ Progress : 27791 / 39001 
+ Progress : 27801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27811 / 39001 
+ Progress : 27821 / 39001 
+ Progress : 27831 / 39001 
+ Progress : 27841 / 39001 
+ Progress : 27851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27861 / 39001 
+ Progress : 27871 / 39001 
+ Progress : 27881 / 39001 
+ Progress : 27891 / 39001 
+ Progress : 27901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27911 / 39001 
+ Progress : 27921 / 39001 
+ Progress : 27931 / 39001 
+ Progress : 27941 / 39001 
+ Progress : 27951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 27961 / 39001 
+ Progress : 27971 / 39001 
+ Progress : 27981 / 39001 
+ Progress : 27991 / 39001 
+ Progress : 28001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 40.301857, Training Accuracy= 99.1%
+ New highest probabilty : 99.0700006485%
+ Model saved in file: ./model_cnn-i28000-b128-a99.0700006485/model.ckpt
+Current highest : 99.0700006485%
+ Progress : 28011 / 39001 
+ Progress : 28021 / 39001 
+ Progress : 28031 / 39001 
+ Progress : 28041 / 39001 
+ Progress : 28051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28061 / 39001 
+ Progress : 28071 / 39001 
+ Progress : 28081 / 39001 
+ Progress : 28091 / 39001 
+ Progress : 28101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28111 / 39001 
+ Progress : 28121 / 39001 
+ Progress : 28131 / 39001 
+ Progress : 28141 / 39001 
+ Progress : 28151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28161 / 39001 
+ Progress : 28171 / 39001 
+ Progress : 28181 / 39001 
+ Progress : 28191 / 39001 
+ Progress : 28201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28211 / 39001 
+ Progress : 28221 / 39001 
+ Progress : 28231 / 39001 
+ Progress : 28241 / 39001 
+ Progress : 28251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28261 / 39001 
+ Progress : 28271 / 39001 
+ Progress : 28281 / 39001 
+ Progress : 28291 / 39001 
+ Progress : 28301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28311 / 39001 
+ Progress : 28321 / 39001 
+ Progress : 28331 / 39001 
+ Progress : 28341 / 39001 
+ Progress : 28351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28361 / 39001 
+ Progress : 28371 / 39001 
+ Progress : 28381 / 39001 
+ Progress : 28391 / 39001 
+ Progress : 28401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28411 / 39001 
+ Progress : 28421 / 39001 
+ Progress : 28431 / 39001 
+ Progress : 28441 / 39001 
+ Progress : 28451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28461 / 39001 
+ Progress : 28471 / 39001 
+ Progress : 28481 / 39001 
+ Progress : 28491 / 39001 
+ Progress : 28501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28511 / 39001 
+ Progress : 28521 / 39001 
+ Progress : 28531 / 39001 
+ Progress : 28541 / 39001 
+ Progress : 28551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28561 / 39001 
+ Progress : 28571 / 39001 
+ Progress : 28581 / 39001 
+ Progress : 28591 / 39001 
+ Progress : 28601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28611 / 39001 
+ Progress : 28621 / 39001 
+ Progress : 28631 / 39001 
+ Progress : 28641 / 39001 
+ Progress : 28651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28661 / 39001 
+ Progress : 28671 / 39001 
+ Progress : 28681 / 39001 
+ Progress : 28691 / 39001 
+ Progress : 28701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28711 / 39001 
+ Progress : 28721 / 39001 
+ Progress : 28731 / 39001 
+ Progress : 28741 / 39001 
+ Progress : 28751 / 39001 
+ Current minibatch Loss= 0.320740, Training Accuracy= 99.2%
+ Progress : 28761 / 39001 
+ Progress : 28771 / 39001 
+ Progress : 28781 / 39001 
+ Progress : 28791 / 39001 
+ Progress : 28801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28811 / 39001 
+ Progress : 28821 / 39001 
+ Progress : 28831 / 39001 
+ Progress : 28841 / 39001 
+ Progress : 28851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28861 / 39001 
+ Progress : 28871 / 39001 
+ Progress : 28881 / 39001 
+ Progress : 28891 / 39001 
+ Progress : 28901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28911 / 39001 
+ Progress : 28921 / 39001 
+ Progress : 28931 / 39001 
+ Progress : 28941 / 39001 
+ Progress : 28951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 28961 / 39001 
+ Progress : 28971 / 39001 
+ Progress : 28981 / 39001 
+ Progress : 28991 / 39001 
+ Progress : 29001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 45.871033, Training Accuracy= 99.1%
+Current highest : 99.0700006485%
+ Progress : 29011 / 39001 
+ Progress : 29021 / 39001 
+ Progress : 29031 / 39001 
+ Progress : 29041 / 39001 
+ Progress : 29051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29061 / 39001 
+ Progress : 29071 / 39001 
+ Progress : 29081 / 39001 
+ Progress : 29091 / 39001 
+ Progress : 29101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29111 / 39001 
+ Progress : 29121 / 39001 
+ Progress : 29131 / 39001 
+ Progress : 29141 / 39001 
+ Progress : 29151 / 39001 
+ Current minibatch Loss= 11.226135, Training Accuracy= 99.2%
+ Progress : 29161 / 39001 
+ Progress : 29171 / 39001 
+ Progress : 29181 / 39001 
+ Progress : 29191 / 39001 
+ Progress : 29201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29211 / 39001 
+ Progress : 29221 / 39001 
+ Progress : 29231 / 39001 
+ Progress : 29241 / 39001 
+ Progress : 29251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29261 / 39001 
+ Progress : 29271 / 39001 
+ Progress : 29281 / 39001 
+ Progress : 29291 / 39001 
+ Progress : 29301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29311 / 39001 
+ Progress : 29321 / 39001 
+ Progress : 29331 / 39001 
+ Progress : 29341 / 39001 
+ Progress : 29351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29361 / 39001 
+ Progress : 29371 / 39001 
+ Progress : 29381 / 39001 
+ Progress : 29391 / 39001 
+ Progress : 29401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29411 / 39001 
+ Progress : 29421 / 39001 
+ Progress : 29431 / 39001 
+ Progress : 29441 / 39001 
+ Progress : 29451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29461 / 39001 
+ Progress : 29471 / 39001 
+ Progress : 29481 / 39001 
+ Progress : 29491 / 39001 
+ Progress : 29501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29511 / 39001 
+ Progress : 29521 / 39001 
+ Progress : 29531 / 39001 
+ Progress : 29541 / 39001 
+ Progress : 29551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29561 / 39001 
+ Progress : 29571 / 39001 
+ Progress : 29581 / 39001 
+ Progress : 29591 / 39001 
+ Progress : 29601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29611 / 39001 
+ Progress : 29621 / 39001 
+ Progress : 29631 / 39001 
+ Progress : 29641 / 39001 
+ Progress : 29651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29661 / 39001 
+ Progress : 29671 / 39001 
+ Progress : 29681 / 39001 
+ Progress : 29691 / 39001 
+ Progress : 29701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29711 / 39001 
+ Progress : 29721 / 39001 
+ Progress : 29731 / 39001 
+ Progress : 29741 / 39001 
+ Progress : 29751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29761 / 39001 
+ Progress : 29771 / 39001 
+ Progress : 29781 / 39001 
+ Progress : 29791 / 39001 
+ Progress : 29801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29811 / 39001 
+ Progress : 29821 / 39001 
+ Progress : 29831 / 39001 
+ Progress : 29841 / 39001 
+ Progress : 29851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29861 / 39001 
+ Progress : 29871 / 39001 
+ Progress : 29881 / 39001 
+ Progress : 29891 / 39001 
+ Progress : 29901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29911 / 39001 
+ Progress : 29921 / 39001 
+ Progress : 29931 / 39001 
+ Progress : 29941 / 39001 
+ Progress : 29951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 29961 / 39001 
+ Progress : 29971 / 39001 
+ Progress : 29981 / 39001 
+ Progress : 29991 / 39001 
+ Progress : 30001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 47.502373, Training Accuracy= 99.0%
+Current highest : 99.0700006485%
+ Progress : 30011 / 39001 
+ Progress : 30021 / 39001 
+ Progress : 30031 / 39001 
+ Progress : 30041 / 39001 
+ Progress : 30051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30061 / 39001 
+ Progress : 30071 / 39001 
+ Progress : 30081 / 39001 
+ Progress : 30091 / 39001 
+ Progress : 30101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30111 / 39001 
+ Progress : 30121 / 39001 
+ Progress : 30131 / 39001 
+ Progress : 30141 / 39001 
+ Progress : 30151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30161 / 39001 
+ Progress : 30171 / 39001 
+ Progress : 30181 / 39001 
+ Progress : 30191 / 39001 
+ Progress : 30201 / 39001 
+ Current minibatch Loss= 2.582092, Training Accuracy= 99.2%
+ Progress : 30211 / 39001 
+ Progress : 30221 / 39001 
+ Progress : 30231 / 39001 
+ Progress : 30241 / 39001 
+ Progress : 30251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30261 / 39001 
+ Progress : 30271 / 39001 
+ Progress : 30281 / 39001 
+ Progress : 30291 / 39001 
+ Progress : 30301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30311 / 39001 
+ Progress : 30321 / 39001 
+ Progress : 30331 / 39001 
+ Progress : 30341 / 39001 
+ Progress : 30351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30361 / 39001 
+ Progress : 30371 / 39001 
+ Progress : 30381 / 39001 
+ Progress : 30391 / 39001 
+ Progress : 30401 / 39001 
+ Current minibatch Loss= 5.533127, Training Accuracy= 99.2%
+ Progress : 30411 / 39001 
+ Progress : 30421 / 39001 
+ Progress : 30431 / 39001 
+ Progress : 30441 / 39001 
+ Progress : 30451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30461 / 39001 
+ Progress : 30471 / 39001 
+ Progress : 30481 / 39001 
+ Progress : 30491 / 39001 
+ Progress : 30501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30511 / 39001 
+ Progress : 30521 / 39001 
+ Progress : 30531 / 39001 
+ Progress : 30541 / 39001 
+ Progress : 30551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30561 / 39001 
+ Progress : 30571 / 39001 
+ Progress : 30581 / 39001 
+ Progress : 30591 / 39001 
+ Progress : 30601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30611 / 39001 
+ Progress : 30621 / 39001 
+ Progress : 30631 / 39001 
+ Progress : 30641 / 39001 
+ Progress : 30651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30661 / 39001 
+ Progress : 30671 / 39001 
+ Progress : 30681 / 39001 
+ Progress : 30691 / 39001 
+ Progress : 30701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30711 / 39001 
+ Progress : 30721 / 39001 
+ Progress : 30731 / 39001 
+ Progress : 30741 / 39001 
+ Progress : 30751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30761 / 39001 
+ Progress : 30771 / 39001 
+ Progress : 30781 / 39001 
+ Progress : 30791 / 39001 
+ Progress : 30801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30811 / 39001 
+ Progress : 30821 / 39001 
+ Progress : 30831 / 39001 
+ Progress : 30841 / 39001 
+ Progress : 30851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30861 / 39001 
+ Progress : 30871 / 39001 
+ Progress : 30881 / 39001 
+ Progress : 30891 / 39001 
+ Progress : 30901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30911 / 39001 
+ Progress : 30921 / 39001 
+ Progress : 30931 / 39001 
+ Progress : 30941 / 39001 
+ Progress : 30951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 30961 / 39001 
+ Progress : 30971 / 39001 
+ Progress : 30981 / 39001 
+ Progress : 30991 / 39001 
+ Progress : 31001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 33.196449, Training Accuracy= 99.0%
+Current highest : 99.0700006485%
+ Progress : 31011 / 39001 
+ Progress : 31021 / 39001 
+ Progress : 31031 / 39001 
+ Progress : 31041 / 39001 
+ Progress : 31051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31061 / 39001 
+ Progress : 31071 / 39001 
+ Progress : 31081 / 39001 
+ Progress : 31091 / 39001 
+ Progress : 31101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31111 / 39001 
+ Progress : 31121 / 39001 
+ Progress : 31131 / 39001 
+ Progress : 31141 / 39001 
+ Progress : 31151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31161 / 39001 
+ Progress : 31171 / 39001 
+ Progress : 31181 / 39001 
+ Progress : 31191 / 39001 
+ Progress : 31201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31211 / 39001 
+ Progress : 31221 / 39001 
+ Progress : 31231 / 39001 
+ Progress : 31241 / 39001 
+ Progress : 31251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31261 / 39001 
+ Progress : 31271 / 39001 
+ Progress : 31281 / 39001 
+ Progress : 31291 / 39001 
+ Progress : 31301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31311 / 39001 
+ Progress : 31321 / 39001 
+ Progress : 31331 / 39001 
+ Progress : 31341 / 39001 
+ Progress : 31351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31361 / 39001 
+ Progress : 31371 / 39001 
+ Progress : 31381 / 39001 
+ Progress : 31391 / 39001 
+ Progress : 31401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31411 / 39001 
+ Progress : 31421 / 39001 
+ Progress : 31431 / 39001 
+ Progress : 31441 / 39001 
+ Progress : 31451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31461 / 39001 
+ Progress : 31471 / 39001 
+ Progress : 31481 / 39001 
+ Progress : 31491 / 39001 
+ Progress : 31501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31511 / 39001 
+ Progress : 31521 / 39001 
+ Progress : 31531 / 39001 
+ Progress : 31541 / 39001 
+ Progress : 31551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31561 / 39001 
+ Progress : 31571 / 39001 
+ Progress : 31581 / 39001 
+ Progress : 31591 / 39001 
+ Progress : 31601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31611 / 39001 
+ Progress : 31621 / 39001 
+ Progress : 31631 / 39001 
+ Progress : 31641 / 39001 
+ Progress : 31651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31661 / 39001 
+ Progress : 31671 / 39001 
+ Progress : 31681 / 39001 
+ Progress : 31691 / 39001 
+ Progress : 31701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31711 / 39001 
+ Progress : 31721 / 39001 
+ Progress : 31731 / 39001 
+ Progress : 31741 / 39001 
+ Progress : 31751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31761 / 39001 
+ Progress : 31771 / 39001 
+ Progress : 31781 / 39001 
+ Progress : 31791 / 39001 
+ Progress : 31801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31811 / 39001 
+ Progress : 31821 / 39001 
+ Progress : 31831 / 39001 
+ Progress : 31841 / 39001 
+ Progress : 31851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31861 / 39001 
+ Progress : 31871 / 39001 
+ Progress : 31881 / 39001 
+ Progress : 31891 / 39001 
+ Progress : 31901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31911 / 39001 
+ Progress : 31921 / 39001 
+ Progress : 31931 / 39001 
+ Progress : 31941 / 39001 
+ Progress : 31951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 31961 / 39001 
+ Progress : 31971 / 39001 
+ Progress : 31981 / 39001 
+ Progress : 31991 / 39001 
+ Progress : 32001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 50.332172, Training Accuracy= 98.9%
+Current highest : 99.0700006485%
+ Progress : 32011 / 39001 
+ Progress : 32021 / 39001 
+ Progress : 32031 / 39001 
+ Progress : 32041 / 39001 
+ Progress : 32051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32061 / 39001 
+ Progress : 32071 / 39001 
+ Progress : 32081 / 39001 
+ Progress : 32091 / 39001 
+ Progress : 32101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32111 / 39001 
+ Progress : 32121 / 39001 
+ Progress : 32131 / 39001 
+ Progress : 32141 / 39001 
+ Progress : 32151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32161 / 39001 
+ Progress : 32171 / 39001 
+ Progress : 32181 / 39001 
+ Progress : 32191 / 39001 
+ Progress : 32201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32211 / 39001 
+ Progress : 32221 / 39001 
+ Progress : 32231 / 39001 
+ Progress : 32241 / 39001 
+ Progress : 32251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32261 / 39001 
+ Progress : 32271 / 39001 
+ Progress : 32281 / 39001 
+ Progress : 32291 / 39001 
+ Progress : 32301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32311 / 39001 
+ Progress : 32321 / 39001 
+ Progress : 32331 / 39001 
+ Progress : 32341 / 39001 
+ Progress : 32351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32361 / 39001 
+ Progress : 32371 / 39001 
+ Progress : 32381 / 39001 
+ Progress : 32391 / 39001 
+ Progress : 32401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32411 / 39001 
+ Progress : 32421 / 39001 
+ Progress : 32431 / 39001 
+ Progress : 32441 / 39001 
+ Progress : 32451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32461 / 39001 
+ Progress : 32471 / 39001 
+ Progress : 32481 / 39001 
+ Progress : 32491 / 39001 
+ Progress : 32501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32511 / 39001 
+ Progress : 32521 / 39001 
+ Progress : 32531 / 39001 
+ Progress : 32541 / 39001 
+ Progress : 32551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32561 / 39001 
+ Progress : 32571 / 39001 
+ Progress : 32581 / 39001 
+ Progress : 32591 / 39001 
+ Progress : 32601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32611 / 39001 
+ Progress : 32621 / 39001 
+ Progress : 32631 / 39001 
+ Progress : 32641 / 39001 
+ Progress : 32651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32661 / 39001 
+ Progress : 32671 / 39001 
+ Progress : 32681 / 39001 
+ Progress : 32691 / 39001 
+ Progress : 32701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32711 / 39001 
+ Progress : 32721 / 39001 
+ Progress : 32731 / 39001 
+ Progress : 32741 / 39001 
+ Progress : 32751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32761 / 39001 
+ Progress : 32771 / 39001 
+ Progress : 32781 / 39001 
+ Progress : 32791 / 39001 
+ Progress : 32801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32811 / 39001 
+ Progress : 32821 / 39001 
+ Progress : 32831 / 39001 
+ Progress : 32841 / 39001 
+ Progress : 32851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32861 / 39001 
+ Progress : 32871 / 39001 
+ Progress : 32881 / 39001 
+ Progress : 32891 / 39001 
+ Progress : 32901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32911 / 39001 
+ Progress : 32921 / 39001 
+ Progress : 32931 / 39001 
+ Progress : 32941 / 39001 
+ Progress : 32951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 32961 / 39001 
+ Progress : 32971 / 39001 
+ Progress : 32981 / 39001 
+ Progress : 32991 / 39001 
+ Progress : 33001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 40.830227, Training Accuracy= 99.1%
+ New highest probabilty : 99.1299986839%
+ Model saved in file: ./model_cnn-i33000-b128-a99.1299986839/model.ckpt
+Current highest : 99.1299986839%
+ Progress : 33011 / 39001 
+ Progress : 33021 / 39001 
+ Progress : 33031 / 39001 
+ Progress : 33041 / 39001 
+ Progress : 33051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33061 / 39001 
+ Progress : 33071 / 39001 
+ Progress : 33081 / 39001 
+ Progress : 33091 / 39001 
+ Progress : 33101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33111 / 39001 
+ Progress : 33121 / 39001 
+ Progress : 33131 / 39001 
+ Progress : 33141 / 39001 
+ Progress : 33151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33161 / 39001 
+ Progress : 33171 / 39001 
+ Progress : 33181 / 39001 
+ Progress : 33191 / 39001 
+ Progress : 33201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33211 / 39001 
+ Progress : 33221 / 39001 
+ Progress : 33231 / 39001 
+ Progress : 33241 / 39001 
+ Progress : 33251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33261 / 39001 
+ Progress : 33271 / 39001 
+ Progress : 33281 / 39001 
+ Progress : 33291 / 39001 
+ Progress : 33301 / 39001 
+ Current minibatch Loss= 2.753532, Training Accuracy= 99.2%
+ Progress : 33311 / 39001 
+ Progress : 33321 / 39001 
+ Progress : 33331 / 39001 
+ Progress : 33341 / 39001 
+ Progress : 33351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33361 / 39001 
+ Progress : 33371 / 39001 
+ Progress : 33381 / 39001 
+ Progress : 33391 / 39001 
+ Progress : 33401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33411 / 39001 
+ Progress : 33421 / 39001 
+ Progress : 33431 / 39001 
+ Progress : 33441 / 39001 
+ Progress : 33451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33461 / 39001 
+ Progress : 33471 / 39001 
+ Progress : 33481 / 39001 
+ Progress : 33491 / 39001 
+ Progress : 33501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33511 / 39001 
+ Progress : 33521 / 39001 
+ Progress : 33531 / 39001 
+ Progress : 33541 / 39001 
+ Progress : 33551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33561 / 39001 
+ Progress : 33571 / 39001 
+ Progress : 33581 / 39001 
+ Progress : 33591 / 39001 
+ Progress : 33601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33611 / 39001 
+ Progress : 33621 / 39001 
+ Progress : 33631 / 39001 
+ Progress : 33641 / 39001 
+ Progress : 33651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33661 / 39001 
+ Progress : 33671 / 39001 
+ Progress : 33681 / 39001 
+ Progress : 33691 / 39001 
+ Progress : 33701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33711 / 39001 
+ Progress : 33721 / 39001 
+ Progress : 33731 / 39001 
+ Progress : 33741 / 39001 
+ Progress : 33751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33761 / 39001 
+ Progress : 33771 / 39001 
+ Progress : 33781 / 39001 
+ Progress : 33791 / 39001 
+ Progress : 33801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33811 / 39001 
+ Progress : 33821 / 39001 
+ Progress : 33831 / 39001 
+ Progress : 33841 / 39001 
+ Progress : 33851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33861 / 39001 
+ Progress : 33871 / 39001 
+ Progress : 33881 / 39001 
+ Progress : 33891 / 39001 
+ Progress : 33901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33911 / 39001 
+ Progress : 33921 / 39001 
+ Progress : 33931 / 39001 
+ Progress : 33941 / 39001 
+ Progress : 33951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 33961 / 39001 
+ Progress : 33971 / 39001 
+ Progress : 33981 / 39001 
+ Progress : 33991 / 39001 
+ Progress : 34001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 37.756756, Training Accuracy= 99.0%
+Current highest : 99.1299986839%
+ Progress : 34011 / 39001 
+ Progress : 34021 / 39001 
+ Progress : 34031 / 39001 
+ Progress : 34041 / 39001 
+ Progress : 34051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34061 / 39001 
+ Progress : 34071 / 39001 
+ Progress : 34081 / 39001 
+ Progress : 34091 / 39001 
+ Progress : 34101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34111 / 39001 
+ Progress : 34121 / 39001 
+ Progress : 34131 / 39001 
+ Progress : 34141 / 39001 
+ Progress : 34151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34161 / 39001 
+ Progress : 34171 / 39001 
+ Progress : 34181 / 39001 
+ Progress : 34191 / 39001 
+ Progress : 34201 / 39001 
+ Current minibatch Loss= 1.652243, Training Accuracy= 99.2%
+ Progress : 34211 / 39001 
+ Progress : 34221 / 39001 
+ Progress : 34231 / 39001 
+ Progress : 34241 / 39001 
+ Progress : 34251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34261 / 39001 
+ Progress : 34271 / 39001 
+ Progress : 34281 / 39001 
+ Progress : 34291 / 39001 
+ Progress : 34301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34311 / 39001 
+ Progress : 34321 / 39001 
+ Progress : 34331 / 39001 
+ Progress : 34341 / 39001 
+ Progress : 34351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34361 / 39001 
+ Progress : 34371 / 39001 
+ Progress : 34381 / 39001 
+ Progress : 34391 / 39001 
+ Progress : 34401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34411 / 39001 
+ Progress : 34421 / 39001 
+ Progress : 34431 / 39001 
+ Progress : 34441 / 39001 
+ Progress : 34451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34461 / 39001 
+ Progress : 34471 / 39001 
+ Progress : 34481 / 39001 
+ Progress : 34491 / 39001 
+ Progress : 34501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34511 / 39001 
+ Progress : 34521 / 39001 
+ Progress : 34531 / 39001 
+ Progress : 34541 / 39001 
+ Progress : 34551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34561 / 39001 
+ Progress : 34571 / 39001 
+ Progress : 34581 / 39001 
+ Progress : 34591 / 39001 
+ Progress : 34601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34611 / 39001 
+ Progress : 34621 / 39001 
+ Progress : 34631 / 39001 
+ Progress : 34641 / 39001 
+ Progress : 34651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34661 / 39001 
+ Progress : 34671 / 39001 
+ Progress : 34681 / 39001 
+ Progress : 34691 / 39001 
+ Progress : 34701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34711 / 39001 
+ Progress : 34721 / 39001 
+ Progress : 34731 / 39001 
+ Progress : 34741 / 39001 
+ Progress : 34751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34761 / 39001 
+ Progress : 34771 / 39001 
+ Progress : 34781 / 39001 
+ Progress : 34791 / 39001 
+ Progress : 34801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34811 / 39001 
+ Progress : 34821 / 39001 
+ Progress : 34831 / 39001 
+ Progress : 34841 / 39001 
+ Progress : 34851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34861 / 39001 
+ Progress : 34871 / 39001 
+ Progress : 34881 / 39001 
+ Progress : 34891 / 39001 
+ Progress : 34901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34911 / 39001 
+ Progress : 34921 / 39001 
+ Progress : 34931 / 39001 
+ Progress : 34941 / 39001 
+ Progress : 34951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 34961 / 39001 
+ Progress : 34971 / 39001 
+ Progress : 34981 / 39001 
+ Progress : 34991 / 39001 
+ Progress : 35001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 41.086555, Training Accuracy= 99.1%
+Current highest : 99.1299986839%
+ Progress : 35011 / 39001 
+ Progress : 35021 / 39001 
+ Progress : 35031 / 39001 
+ Progress : 35041 / 39001 
+ Progress : 35051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35061 / 39001 
+ Progress : 35071 / 39001 
+ Progress : 35081 / 39001 
+ Progress : 35091 / 39001 
+ Progress : 35101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35111 / 39001 
+ Progress : 35121 / 39001 
+ Progress : 35131 / 39001 
+ Progress : 35141 / 39001 
+ Progress : 35151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35161 / 39001 
+ Progress : 35171 / 39001 
+ Progress : 35181 / 39001 
+ Progress : 35191 / 39001 
+ Progress : 35201 / 39001 
+ Current minibatch Loss= 3.323893, Training Accuracy= 99.2%
+ Progress : 35211 / 39001 
+ Progress : 35221 / 39001 
+ Progress : 35231 / 39001 
+ Progress : 35241 / 39001 
+ Progress : 35251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35261 / 39001 
+ Progress : 35271 / 39001 
+ Progress : 35281 / 39001 
+ Progress : 35291 / 39001 
+ Progress : 35301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35311 / 39001 
+ Progress : 35321 / 39001 
+ Progress : 35331 / 39001 
+ Progress : 35341 / 39001 
+ Progress : 35351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35361 / 39001 
+ Progress : 35371 / 39001 
+ Progress : 35381 / 39001 
+ Progress : 35391 / 39001 
+ Progress : 35401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35411 / 39001 
+ Progress : 35421 / 39001 
+ Progress : 35431 / 39001 
+ Progress : 35441 / 39001 
+ Progress : 35451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35461 / 39001 
+ Progress : 35471 / 39001 
+ Progress : 35481 / 39001 
+ Progress : 35491 / 39001 
+ Progress : 35501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35511 / 39001 
+ Progress : 35521 / 39001 
+ Progress : 35531 / 39001 
+ Progress : 35541 / 39001 
+ Progress : 35551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35561 / 39001 
+ Progress : 35571 / 39001 
+ Progress : 35581 / 39001 
+ Progress : 35591 / 39001 
+ Progress : 35601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35611 / 39001 
+ Progress : 35621 / 39001 
+ Progress : 35631 / 39001 
+ Progress : 35641 / 39001 
+ Progress : 35651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35661 / 39001 
+ Progress : 35671 / 39001 
+ Progress : 35681 / 39001 
+ Progress : 35691 / 39001 
+ Progress : 35701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35711 / 39001 
+ Progress : 35721 / 39001 
+ Progress : 35731 / 39001 
+ Progress : 35741 / 39001 
+ Progress : 35751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35761 / 39001 
+ Progress : 35771 / 39001 
+ Progress : 35781 / 39001 
+ Progress : 35791 / 39001 
+ Progress : 35801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35811 / 39001 
+ Progress : 35821 / 39001 
+ Progress : 35831 / 39001 
+ Progress : 35841 / 39001 
+ Progress : 35851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35861 / 39001 
+ Progress : 35871 / 39001 
+ Progress : 35881 / 39001 
+ Progress : 35891 / 39001 
+ Progress : 35901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35911 / 39001 
+ Progress : 35921 / 39001 
+ Progress : 35931 / 39001 
+ Progress : 35941 / 39001 
+ Progress : 35951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 35961 / 39001 
+ Progress : 35971 / 39001 
+ Progress : 35981 / 39001 
+ Progress : 35991 / 39001 
+ Progress : 36001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 36.239632, Training Accuracy= 99.1%
+Current highest : 99.1299986839%
+ Progress : 36011 / 39001 
+ Progress : 36021 / 39001 
+ Progress : 36031 / 39001 
+ Progress : 36041 / 39001 
+ Progress : 36051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36061 / 39001 
+ Progress : 36071 / 39001 
+ Progress : 36081 / 39001 
+ Progress : 36091 / 39001 
+ Progress : 36101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36111 / 39001 
+ Progress : 36121 / 39001 
+ Progress : 36131 / 39001 
+ Progress : 36141 / 39001 
+ Progress : 36151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36161 / 39001 
+ Progress : 36171 / 39001 
+ Progress : 36181 / 39001 
+ Progress : 36191 / 39001 
+ Progress : 36201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36211 / 39001 
+ Progress : 36221 / 39001 
+ Progress : 36231 / 39001 
+ Progress : 36241 / 39001 
+ Progress : 36251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36261 / 39001 
+ Progress : 36271 / 39001 
+ Progress : 36281 / 39001 
+ Progress : 36291 / 39001 
+ Progress : 36301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36311 / 39001 
+ Progress : 36321 / 39001 
+ Progress : 36331 / 39001 
+ Progress : 36341 / 39001 
+ Progress : 36351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36361 / 39001 
+ Progress : 36371 / 39001 
+ Progress : 36381 / 39001 
+ Progress : 36391 / 39001 
+ Progress : 36401 / 39001 
+ Current minibatch Loss= 8.568577, Training Accuracy= 99.2%
+ Progress : 36411 / 39001 
+ Progress : 36421 / 39001 
+ Progress : 36431 / 39001 
+ Progress : 36441 / 39001 
+ Progress : 36451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36461 / 39001 
+ Progress : 36471 / 39001 
+ Progress : 36481 / 39001 
+ Progress : 36491 / 39001 
+ Progress : 36501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36511 / 39001 
+ Progress : 36521 / 39001 
+ Progress : 36531 / 39001 
+ Progress : 36541 / 39001 
+ Progress : 36551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36561 / 39001 
+ Progress : 36571 / 39001 
+ Progress : 36581 / 39001 
+ Progress : 36591 / 39001 
+ Progress : 36601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36611 / 39001 
+ Progress : 36621 / 39001 
+ Progress : 36631 / 39001 
+ Progress : 36641 / 39001 
+ Progress : 36651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36661 / 39001 
+ Progress : 36671 / 39001 
+ Progress : 36681 / 39001 
+ Progress : 36691 / 39001 
+ Progress : 36701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36711 / 39001 
+ Progress : 36721 / 39001 
+ Progress : 36731 / 39001 
+ Progress : 36741 / 39001 
+ Progress : 36751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36761 / 39001 
+ Progress : 36771 / 39001 
+ Progress : 36781 / 39001 
+ Progress : 36791 / 39001 
+ Progress : 36801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36811 / 39001 
+ Progress : 36821 / 39001 
+ Progress : 36831 / 39001 
+ Progress : 36841 / 39001 
+ Progress : 36851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36861 / 39001 
+ Progress : 36871 / 39001 
+ Progress : 36881 / 39001 
+ Progress : 36891 / 39001 
+ Progress : 36901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36911 / 39001 
+ Progress : 36921 / 39001 
+ Progress : 36931 / 39001 
+ Progress : 36941 / 39001 
+ Progress : 36951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 36961 / 39001 
+ Progress : 36971 / 39001 
+ Progress : 36981 / 39001 
+ Progress : 36991 / 39001 
+ Progress : 37001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 42.539684, Training Accuracy= 99.0%
+Current highest : 99.1299986839%
+ Progress : 37011 / 39001 
+ Progress : 37021 / 39001 
+ Progress : 37031 / 39001 
+ Progress : 37041 / 39001 
+ Progress : 37051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37061 / 39001 
+ Progress : 37071 / 39001 
+ Progress : 37081 / 39001 
+ Progress : 37091 / 39001 
+ Progress : 37101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37111 / 39001 
+ Progress : 37121 / 39001 
+ Progress : 37131 / 39001 
+ Progress : 37141 / 39001 
+ Progress : 37151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37161 / 39001 
+ Progress : 37171 / 39001 
+ Progress : 37181 / 39001 
+ Progress : 37191 / 39001 
+ Progress : 37201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37211 / 39001 
+ Progress : 37221 / 39001 
+ Progress : 37231 / 39001 
+ Progress : 37241 / 39001 
+ Progress : 37251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37261 / 39001 
+ Progress : 37271 / 39001 
+ Progress : 37281 / 39001 
+ Progress : 37291 / 39001 
+ Progress : 37301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37311 / 39001 
+ Progress : 37321 / 39001 
+ Progress : 37331 / 39001 
+ Progress : 37341 / 39001 
+ Progress : 37351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37361 / 39001 
+ Progress : 37371 / 39001 
+ Progress : 37381 / 39001 
+ Progress : 37391 / 39001 
+ Progress : 37401 / 39001 
+ Current minibatch Loss= 5.564400, Training Accuracy= 99.2%
+ Progress : 37411 / 39001 
+ Progress : 37421 / 39001 
+ Progress : 37431 / 39001 
+ Progress : 37441 / 39001 
+ Progress : 37451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37461 / 39001 
+ Progress : 37471 / 39001 
+ Progress : 37481 / 39001 
+ Progress : 37491 / 39001 
+ Progress : 37501 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37511 / 39001 
+ Progress : 37521 / 39001 
+ Progress : 37531 / 39001 
+ Progress : 37541 / 39001 
+ Progress : 37551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37561 / 39001 
+ Progress : 37571 / 39001 
+ Progress : 37581 / 39001 
+ Progress : 37591 / 39001 
+ Progress : 37601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37611 / 39001 
+ Progress : 37621 / 39001 
+ Progress : 37631 / 39001 
+ Progress : 37641 / 39001 
+ Progress : 37651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37661 / 39001 
+ Progress : 37671 / 39001 
+ Progress : 37681 / 39001 
+ Progress : 37691 / 39001 
+ Progress : 37701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37711 / 39001 
+ Progress : 37721 / 39001 
+ Progress : 37731 / 39001 
+ Progress : 37741 / 39001 
+ Progress : 37751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37761 / 39001 
+ Progress : 37771 / 39001 
+ Progress : 37781 / 39001 
+ Progress : 37791 / 39001 
+ Progress : 37801 / 39001 
+ Current minibatch Loss= 2.572395, Training Accuracy= 99.2%
+ Progress : 37811 / 39001 
+ Progress : 37821 / 39001 
+ Progress : 37831 / 39001 
+ Progress : 37841 / 39001 
+ Progress : 37851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37861 / 39001 
+ Progress : 37871 / 39001 
+ Progress : 37881 / 39001 
+ Progress : 37891 / 39001 
+ Progress : 37901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37911 / 39001 
+ Progress : 37921 / 39001 
+ Progress : 37931 / 39001 
+ Progress : 37941 / 39001 
+ Progress : 37951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 37961 / 39001 
+ Progress : 37971 / 39001 
+ Progress : 37981 / 39001 
+ Progress : 37991 / 39001 
+ Progress : 38001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 46.056892, Training Accuracy= 99.1%
+Current highest : 99.1299986839%
+ Progress : 38011 / 39001 
+ Progress : 38021 / 39001 
+ Progress : 38031 / 39001 
+ Progress : 38041 / 39001 
+ Progress : 38051 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38061 / 39001 
+ Progress : 38071 / 39001 
+ Progress : 38081 / 39001 
+ Progress : 38091 / 39001 
+ Progress : 38101 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38111 / 39001 
+ Progress : 38121 / 39001 
+ Progress : 38131 / 39001 
+ Progress : 38141 / 39001 
+ Progress : 38151 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38161 / 39001 
+ Progress : 38171 / 39001 
+ Progress : 38181 / 39001 
+ Progress : 38191 / 39001 
+ Progress : 38201 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38211 / 39001 
+ Progress : 38221 / 39001 
+ Progress : 38231 / 39001 
+ Progress : 38241 / 39001 
+ Progress : 38251 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38261 / 39001 
+ Progress : 38271 / 39001 
+ Progress : 38281 / 39001 
+ Progress : 38291 / 39001 
+ Progress : 38301 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38311 / 39001 
+ Progress : 38321 / 39001 
+ Progress : 38331 / 39001 
+ Progress : 38341 / 39001 
+ Progress : 38351 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38361 / 39001 
+ Progress : 38371 / 39001 
+ Progress : 38381 / 39001 
+ Progress : 38391 / 39001 
+ Progress : 38401 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38411 / 39001 
+ Progress : 38421 / 39001 
+ Progress : 38431 / 39001 
+ Progress : 38441 / 39001 
+ Progress : 38451 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38461 / 39001 
+ Progress : 38471 / 39001 
+ Progress : 38481 / 39001 
+ Progress : 38491 / 39001 
+ Progress : 38501 / 39001 
+ Current minibatch Loss= 8.271240, Training Accuracy= 99.2%
+ Progress : 38511 / 39001 
+ Progress : 38521 / 39001 
+ Progress : 38531 / 39001 
+ Progress : 38541 / 39001 
+ Progress : 38551 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38561 / 39001 
+ Progress : 38571 / 39001 
+ Progress : 38581 / 39001 
+ Progress : 38591 / 39001 
+ Progress : 38601 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38611 / 39001 
+ Progress : 38621 / 39001 
+ Progress : 38631 / 39001 
+ Progress : 38641 / 39001 
+ Progress : 38651 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38661 / 39001 
+ Progress : 38671 / 39001 
+ Progress : 38681 / 39001 
+ Progress : 38691 / 39001 
+ Progress : 38701 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38711 / 39001 
+ Progress : 38721 / 39001 
+ Progress : 38731 / 39001 
+ Progress : 38741 / 39001 
+ Progress : 38751 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38761 / 39001 
+ Progress : 38771 / 39001 
+ Progress : 38781 / 39001 
+ Progress : 38791 / 39001 
+ Progress : 38801 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38811 / 39001 
+ Progress : 38821 / 39001 
+ Progress : 38831 / 39001 
+ Progress : 38841 / 39001 
+ Progress : 38851 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38861 / 39001 
+ Progress : 38871 / 39001 
+ Progress : 38881 / 39001 
+ Progress : 38891 / 39001 
+ Progress : 38901 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38911 / 39001 
+ Progress : 38921 / 39001 
+ Progress : 38931 / 39001 
+ Progress : 38941 / 39001 
+ Progress : 38951 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Progress : 38961 / 39001 
+ Progress : 38971 / 39001 
+ Progress : 38981 / 39001 
+ Progress : 38991 / 39001 
+ Progress : 39001 / 39001 
+ Current minibatch Loss= 0.000000, Training Accuracy= 100.0%
+ Current testing data Loss= 38.828957, Training Accuracy= 99.0%
+Current highest : 99.1299986839%
